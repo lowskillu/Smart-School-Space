@@ -1,0 +1,1484 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: 1.0\n"
+"Report-Msgid-Bugs-To: you@example.com\n"
+"POT-Creation-Date: 2026-04-16 12:00+0000\n"
+"PO-Revision-Date: 2026-04-16 12:00+0000\n"
+"Last-Translator: you <you@example.com>\n"
+"Language-Team: Russian <yourteam@example.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid "nav.features"
+msgstr "Funciones"
+
+msgid "nav.scheduler"
+msgstr "Horario"
+
+msgid "nav.pricing"
+msgstr "Precios"
+
+msgid "nav.testimonials"
+msgstr "Testimonios"
+
+msgid "nav.signIn"
+msgstr "Iniciar sesión"
+
+msgid "nav.registerSchool"
+msgstr "Registrar su escuela"
+
+msgid "sidebar.navigation"
+msgstr "Navegación"
+
+msgid "sidebar.administration"
+msgstr "Administración"
+
+msgid "sidebar.dashboard"
+msgstr "Panel de control"
+
+msgid "sidebar.attendance"
+msgstr "Asistencia"
+
+msgid "sidebar.collegePrep"
+msgstr "Preparación universitaria"
+
+msgid "sidebar.admissionsHub"
+msgstr "Centro de Admisión"
+
+msgid "sidebar.alumni"
+msgstr "Egresados"
+
+msgid "sidebar.communication"
+msgstr "Comunicación"
+
+msgid "sidebar.services"
+msgstr "Servicios"
+
+msgid "sidebar.adminPanel"
+msgstr "Panel de administración"
+
+msgid "sidebar.onboarding"
+msgstr "Configuración"
+
+msgid "sidebar.schedule"
+msgstr "Horario"
+
+msgid "sidebar.studentDistribution"
+msgstr "Distribución de alumnos"
+
+msgid "sidebar.mySchedule"
+msgstr "Mi horario"
+
+msgid "sidebar.myCourses"
+msgstr "Mis cursos"
+
+msgid "sidebar.bellSetup"
+msgstr "Config. timbres"
+
+msgid "sidebar.currentLesson"
+msgstr "Clase actual"
+
+msgid "sidebar.counselorHub"
+msgstr "Centro orientador"
+
+msgid "sidebar.essayQueue"
+msgstr "Cola de ensayos"
+
+msgid "sidebar.curatorSearch"
+msgstr "Buscar alumnos"
+
+msgid "sidebar.userManagement"
+msgstr "Gestión de usuarios"
+
+msgid "sidebar.resourceSetup"
+msgstr "Gestión de recursos"
+
+msgid "roles.admin"
+msgstr "Admin"
+
+msgid "roles.teacher"
+msgstr "Profesor"
+
+msgid "roles.student"
+msgstr "Estudiante"
+
+msgid "roles.counselor"
+msgstr "Orientador"
+
+msgid "roles.curator"
+msgstr "Curador"
+
+msgid "onboarding.title"
+msgstr "Asistente de configuración"
+
+msgid "onboarding.subtitle"
+msgstr "Configure su escuela en 4 simples pasos"
+
+msgid "onboarding.addSubjects"
+msgstr "Agregar materias"
+
+msgid "onboarding.registerTeachers"
+msgstr "Registrar profesores"
+
+msgid "onboarding.createClasses"
+msgstr "Crear clases"
+
+msgid "onboarding.generateSchedule"
+msgstr "Generar horario"
+
+msgid "onboarding.step0Desc"
+msgstr "Agregue las materias que se enseñan en su escuela"
+
+msgid "onboarding.step1Desc"
+msgstr "Registre profesores y asígneles materias"
+
+msgid "onboarding.step2Desc"
+msgstr "Cree clases y establezca la capacidad de estudiantes"
+
+msgid "onboarding.step3Desc"
+msgstr "Genere un horario semanal optimizado"
+
+msgid "onboarding.subjectPlaceholder"
+msgstr "ej. Matemáticas"
+
+msgid "onboarding.teacherNamePlaceholder"
+msgstr "Nombre del profesor"
+
+msgid "onboarding.selectSubject"
+msgstr "Seleccionar materia"
+
+msgid "onboarding.classNamePlaceholder"
+msgstr "ej. Grado 10A"
+
+msgid "onboarding.studentCountPlaceholder"
+msgstr "Estudiantes"
+
+msgid "onboarding.students"
+msgstr "estudiantes"
+
+msgid "onboarding.readyToGenerate"
+msgstr "Listo para generar el horario semanal basado en sus datos."
+
+msgid "onboarding.subjectsCount"
+msgstr "materias"
+
+msgid "onboarding.teachersCount"
+msgstr "profesores"
+
+msgid "onboarding.classesCount"
+msgstr "clases"
+
+msgid "onboarding.generateBtn"
+msgstr "Generar horario"
+
+msgid "onboarding.conflictsFound"
+msgstr "¡{{count}} conflicto(s) detectado(s)!"
+
+msgid "onboarding.scheduleGenerated"
+msgstr "¡Horario generado exitosamente!"
+
+msgid "onboarding.finish"
+msgstr "Finalizar configuración"
+
+msgid "onboarding.mon"
+msgstr "Lun"
+
+msgid "onboarding.tue"
+msgstr "Mar"
+
+msgid "onboarding.wed"
+msgstr "Mié"
+
+msgid "onboarding.thu"
+msgstr "Jue"
+
+msgid "onboarding.fri"
+msgstr "Vie"
+
+msgid "schedule.title"
+msgstr "Gestión de horarios"
+
+msgid "schedule.subtitle"
+msgstr "Ver y gestionar el horario semanal"
+
+msgid "schedule.selectClass"
+msgstr "Seleccionar clase"
+
+msgid "schedule.regenerate"
+msgstr "Regenerar"
+
+msgid "schedule.weeklyGrid"
+msgstr "Horario semanal"
+
+msgid "schedule.noSchedule"
+msgstr "Aún no se ha generado un horario. Vaya a configuración escolar."
+
+msgid "schedule.period"
+msgstr "Período"
+
+msgid "schedule.lunch"
+msgstr "Almuerzo"
+
+msgid "schedule.conflict"
+msgstr "Conflicto"
+
+msgid "distribution.title"
+msgstr "Distribución de estudiantes"
+
+msgid "distribution.subtitle"
+msgstr "Asigne estudiantes a las clases"
+
+msgid "distribution.classes"
+msgstr "Clases"
+
+msgid "distribution.selectClass"
+msgstr "Seleccionar una clase"
+
+msgid "distribution.noClasses"
+msgstr "Aún no se han creado clases."
+
+msgid "distribution.studentNamePlaceholder"
+msgstr "Nombre del estudiante"
+
+msgid "distribution.noStudents"
+msgstr "Aún no se han asignado estudiantes."
+
+msgid "distribution.selectClassPrompt"
+msgstr "Seleccione una clase de la izquierda para gestionar estudiantes."
+
+msgid "studentSchedule.title"
+msgstr "Mi horario"
+
+msgid "studentSchedule.classLabel"
+msgstr "Clase"
+
+msgid "studentSchedule.noClass"
+msgstr "Sin clase asignada"
+
+msgid "studentSchedule.weeklyView"
+msgstr "Horario semanal"
+
+msgid "studentSchedule.noSchedule"
+msgstr "Horario aún no disponible."
+
+msgid "studentCourses.title"
+msgstr "Mis cursos"
+
+msgid "studentCourses.subtitle"
+msgstr "Sus materias y profesores asignados"
+
+msgid "studentCourses.noCourses"
+msgstr "Aún no hay cursos disponibles."
+
+msgid "studentCourses.noTeacher"
+msgstr "Sin profesor asignado"
+
+msgid "landing.badge"
+msgstr "Más de 500 escuelas confían en nosotros"
+
+msgid "landing.heroTitle1"
+msgstr "SmartSchool AI: Plataforma unificada para"
+
+msgid "landing.heroTitle2"
+msgstr "la vida escolar"
+
+msgid "landing.heroTitle3"
+msgstr "y"
+
+msgid "landing.heroTitle4"
+msgstr "admisiones"
+
+msgid "landing.heroSubtitle"
+msgstr ""
+"Reemplace grupos fragmentados de WhatsApp, hojas de cálculo dispersas y "
+"programación manual con un ecosistema inteligente diseñado para escuelas "
+"modernas."
+
+msgid "landing.seeHow"
+msgstr "Ver cómo funciona"
+
+msgid "landing.freeTrial"
+msgstr "Prueba gratuita de 30 días"
+
+msgid "landing.noCard"
+msgstr "Sin tarjeta de crédito"
+
+msgid "landing.setupTime"
+msgstr "Configuración en 10 minutos"
+
+msgid "landing.problemTitle"
+msgstr "El problema que resolvemos"
+
+msgid "landing.problemSubtitle"
+msgstr ""
+"Las escuelas dependen de herramientas desconectadas que pierden tiempo y "
+"datos. SmartSchool AI lo unifica todo."
+
+msgid "landing.problem"
+msgstr "Problema"
+
+msgid "landing.solution"
+msgstr "Solución"
+
+msgid "landing.featuresTitle"
+msgstr "Todo lo que su escuela necesita"
+
+msgid "landing.featuresSubtitle"
+msgstr ""
+"Un conjunto completo de herramientas diseñado específicamente para la "
+"administración escolar."
+
+msgid "landing.schedulerTitle"
+msgstr "Programador automático con detección de conflictos"
+
+msgid "landing.schedulerSubtitle"
+msgstr ""
+"Nuestra IA genera horarios óptimos y destaca los conflictos antes de que "
+"ocurran."
+
+msgid "landing.schedulerLabel"
+msgstr "Auto-generado"
+
+msgid "landing.roomConflict"
+msgstr "Conflicto de aula"
+
+msgid "landing.pricingTitle"
+msgstr "Precios simples y transparentes"
+
+msgid "landing.pricingSubtitle"
+msgstr "Elija el plan que se adapte a las necesidades de su institución."
+
+msgid "landing.mostPopular"
+msgstr "Más popular"
+
+msgid "landing.startTrial"
+msgstr "Iniciar prueba gratuita"
+
+msgid "landing.contactSales"
+msgstr "Contactar ventas"
+
+msgid "landing.testimonialsTitle"
+msgstr "La confianza de los educadores"
+
+msgid "landing.ctaTitle"
+msgstr "¿Listo para transformar su escuela?"
+
+msgid "landing.ctaSubtitle"
+msgstr "Únase a más de 500 escuelas que ya utilizan SmartSchool AI."
+
+msgid "landing.copyright"
+msgstr "© 2026 SmartSchool AI. Todos los derechos reservados."
+
+msgid "landing.mondaySchedule"
+msgstr "Horario del lunes — Clase 12-A"
+
+msgid "pricing.basic.name"
+msgstr "Básico"
+
+msgid "pricing.basic.price"
+msgstr "$299"
+
+msgid "pricing.basic.period"
+msgstr "/mes"
+
+msgid "pricing.basic.desc"
+msgstr "Para escuelas pequeñas de hasta 200 estudiantes"
+
+msgid "pricing.pro.name"
+msgstr "Pro"
+
+msgid "pricing.pro.price"
+msgstr "$799"
+
+msgid "pricing.pro.period"
+msgstr "/mes"
+
+msgid "pricing.pro.desc"
+msgstr "Para escuelas en crecimiento de hasta 1,000 estudiantes"
+
+msgid "pricing.institutional.name"
+msgstr "Institucional"
+
+msgid "pricing.institutional.price"
+msgstr "Personalizado"
+
+msgid "pricing.institutional.period"
+msgstr ""
+
+msgid "pricing.institutional.desc"
+msgstr "Para distritos escolares y grandes instituciones"
+
+msgid "pricing.features.dashboardAnalytics"
+msgstr "Panel de control y analíticas"
+
+msgid "pricing.features.attendanceModule"
+msgstr "Módulo de asistencia"
+
+msgid "pricing.features.communicationHub"
+msgstr "Centro de comunicación"
+
+msgid "pricing.features.adminAccounts5"
+msgstr "5 cuentas de administrador"
+
+msgid "pricing.features.emailSupport"
+msgstr "Soporte por email"
+
+msgid "pricing.features.everythingBasic"
+msgstr "Todo en Básico"
+
+msgid "pricing.features.collegePrepHub"
+msgstr "Centro de preparación universitaria"
+
+msgid "pricing.features.aiEssayFeedback"
+msgstr "Análisis de ensayos con IA"
+
+msgid "pricing.features.autoScheduler"
+msgstr "Programador automático"
+
+msgid "pricing.features.prioritySupport"
+msgstr "Soporte prioritario"
+
+msgid "pricing.features.apiAccess"
+msgstr "Acceso API"
+
+msgid "pricing.features.everythingPro"
+msgstr "Todo en Pro"
+
+msgid "pricing.features.unlimitedStudents"
+msgstr "Estudiantes ilimitados"
+
+msgid "pricing.features.alumniNetwork"
+msgstr "Red de egresados"
+
+msgid "pricing.features.customIntegrations"
+msgstr "Integraciones personalizadas"
+
+msgid "pricing.features.dedicatedManager"
+msgstr "Gerente de cuenta dedicado"
+
+msgid "pricing.features.slaGuarantee"
+msgstr "Garantía SLA"
+
+msgid "pricing.features.onPremise"
+msgstr "Opción local"
+
+msgid "problems.fragmented"
+msgstr "Comunicación fragmentada"
+
+msgid "problems.fragmentedSolution"
+msgstr "Una plataforma unificada para toda la mensajería escolar"
+
+msgid "problems.manual"
+msgstr "Programación manual"
+
+msgid "problems.manualSolution"
+msgstr "Programador IA con resolución automática de conflictos"
+
+msgid "problems.disconnected"
+msgstr "Datos desconectados"
+
+msgid "problems.disconnectedSolution"
+msgstr "Analíticas centralizadas en todos los módulos"
+
+msgid "problems.paper"
+msgstr "Procesos en papel"
+
+msgid "problems.paperSolution"
+msgstr "Flujos digitales desde la asistencia hasta las admisiones"
+
+msgid "features.autoScheduler"
+msgstr "Programador automático"
+
+msgid "features.autoSchedulerDesc"
+msgstr ""
+"Generación de horarios con IA y detección de conflictos en tiempo real"
+
+msgid "features.perfAnalytics"
+msgstr "Analíticas de rendimiento"
+
+msgid "features.perfAnalyticsDesc"
+msgstr "Seguimiento del progreso estudiantil con paneles interactivos"
+
+msgid "features.unifiedComm"
+msgstr "Comunicación unificada"
+
+msgid "features.unifiedCommDesc"
+msgstr "Reemplace grupos de WhatsApp fragmentados con canales organizados"
+
+msgid "features.faceIdAttendance"
+msgstr "Asistencia con Face ID"
+
+msgid "features.faceIdAttendanceDesc"
+msgstr ""
+"Registros de asistencia verificados biométricamente con notificaciones a "
+"padres"
+
+msgid "features.collegePrepHub"
+msgstr "Centro de preparación universitaria"
+
+msgid "features.collegePrepHubDesc"
+msgstr ""
+"Análisis de ensayos con IA, gestión de portafolio y seguimiento de "
+"recomendaciones"
+
+msgid "features.smartAlerts"
+msgstr "Alertas inteligentes"
+
+msgid "features.smartAlertsDesc"
+msgstr ""
+"Advertencias de sobrecarga docente, recordatorios de plazos e información de"
+" admisiones"
+
+msgid "dashboard.title"
+msgstr "Panel de control"
+
+msgid "dashboard.welcome"
+msgstr "¡Bienvenido! Aquí está su resumen."
+
+msgid "dashboard.students"
+msgstr "Estudiantes"
+
+msgid "dashboard.avgGpa"
+msgstr "GPA promedio"
+
+msgid "dashboard.attendance"
+msgstr "Asistencia"
+
+msgid "dashboard.courses"
+msgstr "Cursos"
+
+msgid "dashboard.performanceAnalytics"
+msgstr "Analíticas de rendimiento"
+
+msgid "dashboard.gradeTrends"
+msgstr "Tendencias de calificaciones"
+
+msgid "dashboard.deadlineCalendar"
+msgstr "Calendario de plazos"
+
+msgid "dashboard.upcomingDueDates"
+msgstr "Próximas fechas de entrega"
+
+msgid "dashboard.targetGradeCalc"
+msgstr "Calculadora de calificación objetivo"
+
+msgid "dashboard.setGoals"
+msgstr "Establezca metas y siga el progreso"
+
+msgid "dashboard.ofTarget"
+msgstr "del objetivo"
+
+msgid "dashboard.math"
+msgstr "Matemáticas"
+
+msgid "dashboard.science"
+msgstr "Ciencias"
+
+msgid "dashboard.english"
+msgstr "Inglés"
+
+msgid "dashboard.mathematics"
+msgstr "Matemáticas"
+
+msgid "dashboard.assignment"
+msgstr "Tarea"
+
+msgid "dashboard.project"
+msgstr "Proyecto"
+
+msgid "dashboard.essay"
+msgstr "Ensayo"
+
+msgid "dashboard.exam"
+msgstr "Examen"
+
+msgid "dashboard.portfolio"
+msgstr "Portafolio"
+
+msgid "attendance.title"
+msgstr "Asistencia"
+
+msgid "attendance.subtitle"
+msgstr "Registros de asistencia verificados por Face ID"
+
+msgid "attendance.present"
+msgstr "Presente"
+
+msgid "attendance.late"
+msgstr "Tarde"
+
+msgid "attendance.absent"
+msgstr "Ausente"
+
+msgid "attendance.all"
+msgstr "Todos"
+
+msgid "attendance.studentGrid"
+msgstr "Cuadrícula de asistencia"
+
+msgid "collegePrep.title"
+msgstr "Centro de preparación universitaria"
+
+msgid "collegePrep.subtitle"
+msgstr "Escritura de ensayos, análisis IA y gestión de portafolio"
+
+msgid "collegePrep.essayWriting"
+msgstr "Escritura de ensayos"
+
+msgid "collegePrep.commonApp"
+msgstr "Declaración personal Common App"
+
+msgid "collegePrep.startWriting"
+msgstr "Comience a escribir su ensayo..."
+
+msgid "collegePrep.words"
+msgstr "palabras"
+
+msgid "collegePrep.saveDraft"
+msgstr "Guardar borrador"
+
+msgid "collegePrep.submitReview"
+msgstr "Enviar para revisión"
+
+msgid "collegePrep.aiFeedback"
+msgstr "Análisis IA"
+
+msgid "collegePrep.realTimeAnalysis"
+msgstr "Análisis en tiempo real"
+
+msgid "collegePrep.strength"
+msgstr "fortaleza"
+
+msgid "collegePrep.improvement"
+msgstr "mejora"
+
+msgid "collegePrep.tip"
+msgstr "consejo"
+
+msgid "collegePrep.portfolioStorage"
+msgstr "Almacenamiento de portafolio"
+
+msgid "collegePrep.certsAwards"
+msgstr "Certificados y premios"
+
+msgid "collegePrep.uploadCert"
+msgstr "Subir certificado"
+
+msgid "collegePrep.certificate"
+msgstr "Certificado"
+
+msgid "collegePrep.award"
+msgstr "Premio"
+
+msgid "collegePrep.featuredEssay"
+msgstr "Ensayo destacado"
+
+msgid "alumni.title"
+msgstr "Salón de la fama"
+
+msgid "alumni.subtitle"
+msgstr "Celebrando a nuestros egresados destacados"
+
+msgid "alumni.readEssay"
+msgstr "Leer ensayo"
+
+msgid "alumni.profile"
+msgstr "Perfil"
+
+msgid "alumni.featuredEssay"
+msgstr "Ensayo destacado"
+
+msgid "communication.title"
+msgstr "Comunicación"
+
+msgid "communication.subtitle"
+msgstr "Chat con clases, profesores y equipos de proyecto"
+
+msgid "communication.channels"
+msgstr "Canales"
+
+msgid "communication.schoolChannels"
+msgstr "Canales"
+
+msgid "communication.directMessages"
+msgstr "Mensajes directos"
+
+msgid "communication.typeMessage"
+msgstr "Escriba un mensaje..."
+
+msgid "communication.messageTeacher"
+msgstr "Mensaje al profesor"
+
+msgid "communication.noMessages"
+msgstr "No hay mensajes. ¡Inicia una conversación!"
+
+msgid "communication.edited"
+msgstr "editado"
+
+msgid "communication.dropFiles"
+msgstr "Arrastra archivos aquí"
+
+msgid "admissions.title"
+msgstr "Centro de Admisión"
+
+msgid "admissions.subtitle"
+msgstr "Rastrea tus solicitudes, puntajes y documentos"
+
+msgid "admissions.exams"
+msgstr "Exámenes"
+
+msgid "admissions.collegeList"
+msgstr "Universidades"
+
+msgid "admissions.activities"
+msgstr "Actividades"
+
+msgid "admissions.essays"
+msgstr "Ensayos"
+
+msgid "admissions.documents"
+msgstr "Documentos"
+
+msgid "admissions.examTracker"
+msgstr "SAT / IELTS / Exámenes externos"
+
+msgid "admissions.examTrackerSub"
+msgstr "Puntaje objetivo vs. mejor actual"
+
+msgid "admissions.examName"
+msgstr "Examen"
+
+msgid "admissions.targetScore"
+msgstr "Puntaje objetivo"
+
+msgid "admissions.currentBest"
+msgstr "Mejor actual"
+
+msgid "admissions.testDate"
+msgstr "Fecha de examen"
+
+msgid "admissions.status"
+msgstr "Estado"
+
+msgid "admissions.registered"
+msgstr "Registrado"
+
+msgid "admissions.completed"
+msgstr "Completado"
+
+msgid "admissions.upcoming"
+msgstr "Próximo"
+
+msgid "admissions.uploadScoreReport"
+msgstr "Subir reporte (PDF/JPG)"
+
+msgid "admissions.add"
+msgstr "Agregar"
+
+msgid "admissions.collegeTracker"
+msgstr "Rastreador de solicitudes"
+
+msgid "admissions.collegeTrackerSub"
+msgstr "Organizar por Aspiración, Realista y Seguridad"
+
+msgid "admissions.reach"
+msgstr "Aspiración"
+
+msgid "admissions.match"
+msgstr "Realista"
+
+msgid "admissions.safety"
+msgstr "Seguridad"
+
+msgid "admissions.deadline"
+msgstr "Fecha límite"
+
+msgid "admissions.notStarted"
+msgstr "No iniciado"
+
+msgid "admissions.inProgress"
+msgstr "En progreso"
+
+msgid "admissions.submitted"
+msgstr "Enviado"
+
+msgid "admissions.universityName"
+msgstr "Nombre de universidad"
+
+msgid "admissions.portalUrl"
+msgstr "URL del portal"
+
+msgid "admissions.activityList"
+msgstr "Actividades extracurriculares"
+
+msgid "admissions.activityListSub"
+msgstr "Lista hasta 10 actividades"
+
+msgid "admissions.role"
+msgstr "Rol"
+
+msgid "admissions.organization"
+msgstr "Organización"
+
+msgid "admissions.description"
+msgstr "Descripción"
+
+msgid "admissions.hrsWeek"
+msgstr "hrs/semana"
+
+msgid "admissions.cert"
+msgstr "Cert."
+
+msgid "admissions.activitiesUsed"
+msgstr "actividades"
+
+msgid "admissions.personalStatement"
+msgstr "Declaración personal"
+
+msgid "admissions.draftEditor"
+msgstr "Editor con historial"
+
+msgid "admissions.startWriting"
+msgstr "Comienza tu ensayo..."
+
+msgid "admissions.words"
+msgstr "palabras"
+
+msgid "admissions.saveVersion"
+msgstr "Guardar versión"
+
+msgid "admissions.versionHistory"
+msgstr "Historial de versiones"
+
+msgid "admissions.counselorFeedback"
+msgstr "Retroalimentación"
+
+msgid "admissions.leaveFeedback"
+msgstr "Deja comentarios"
+
+msgid "admissions.readOnly"
+msgstr "Solo lectura"
+
+msgid "admissions.writeFeedback"
+msgstr "Escribe tu retroalimentación..."
+
+msgid "admissions.noFeedbackYet"
+msgstr "Sin comentarios aún"
+
+msgid "admissions.adminFeedbackNote"
+msgstr "Visible para el estudiante."
+
+msgid "admissions.adminOnly"
+msgstr "Solo administrador"
+
+msgid "admissions.vault"
+msgstr "Bóveda de documentos"
+
+msgid "admissions.vaultSub"
+msgstr "Expedientes y premios"
+
+msgid "admissions.uploadDocument"
+msgstr "Subir documento"
+
+msgid "services.title"
+msgstr "Buffet en línea"
+
+msgid "services.subtitle"
+msgstr "Pre-ordene sus comidas para hoy"
+
+msgid "services.items"
+msgstr "artículos"
+
+msgid "services.preOrder"
+msgstr "Pre-ordenar"
+
+msgid "services.addedToOrder"
+msgstr "¡agregado al pedido!"
+
+msgid "admin.title"
+msgstr "Panel de administración"
+
+msgid "admin.subtitle"
+msgstr "Resumen escolar para directores y administradores"
+
+msgid "admin.totalStudents"
+msgstr "Total de estudiantes"
+
+msgid "admin.avgAttendance"
+msgstr "Asistencia promedio"
+
+msgid "admin.pendingReports"
+msgstr "Reportes pendientes"
+
+msgid "admin.teacherHoursAvg"
+msgstr "Promedio horas docentes"
+
+msgid "admin.weeklyReport"
+msgstr "Reporte semanal"
+
+msgid "admin.weeklyReportSub"
+msgstr "Asistencia y entregas esta semana"
+
+msgid "admin.teacherWorkload"
+msgstr "Carga de trabajo docente"
+
+msgid "admin.weeklyHours"
+msgstr "Horas de enseñanza semanales"
+
+msgid "admin.admissionAnalytics"
+msgstr "Analíticas de admisión"
+
+msgid "admin.admissionSub"
+msgstr "Embudo de solicitudes en el tiempo"
+
+msgid "admin.admissionBreakdown"
+msgstr "Desglose de admisiones"
+
+msgid "admin.currentCycle"
+msgstr "Ciclo actual"
+
+msgid "admin.accepted"
+msgstr "Aceptados"
+
+msgid "admin.waitlisted"
+msgstr "En lista de espera"
+
+msgid "admin.rejected"
+msgstr "Rechazados"
+
+msgid "admin.overloaded"
+msgstr "sobrecargado"
+
+msgid "admin.high"
+msgstr "alto"
+
+msgid "admin.normal"
+msgstr "normal"
+
+msgid "admin.applications"
+msgstr "Solicitudes"
+
+msgid "admin.enrolled"
+msgstr "Matriculados"
+
+msgid "register.title"
+msgstr "Registrar su escuela"
+
+msgid "register.subtitle"
+msgstr "Comience en solo unos pasos"
+
+msgid "register.schoolInfo"
+msgstr "Info escuela"
+
+msgid "register.adminAccount"
+msgstr "Cuenta admin"
+
+msgid "register.configuration"
+msgstr "Configuración"
+
+msgid "register.complete"
+msgstr "Completar"
+
+msgid "register.schoolName"
+msgstr "Nombre de la escuela"
+
+msgid "register.schoolNamePlaceholder"
+msgstr "ej. Academia Lincoln"
+
+msgid "register.district"
+msgstr "Distrito / Región"
+
+msgid "register.districtPlaceholder"
+msgstr "ej. Región de Almaty"
+
+msgid "register.country"
+msgstr "País"
+
+msgid "register.countryPlaceholder"
+msgstr "ej. España"
+
+msgid "register.studentCount"
+msgstr "Número de estudiantes"
+
+msgid "register.studentCountPlaceholder"
+msgstr "ej. 500"
+
+msgid "register.schoolInformation"
+msgstr "Información de la escuela"
+
+msgid "register.administratorAccount"
+msgstr "Cuenta de administrador"
+
+msgid "register.fullName"
+msgstr "Nombre completo"
+
+msgid "register.fullNamePlaceholder"
+msgstr "ej. Juan García"
+
+msgid "register.email"
+msgstr "Correo electrónico"
+
+msgid "register.emailPlaceholder"
+msgstr "admin@school.edu"
+
+msgid "register.phone"
+msgstr "Teléfono"
+
+msgid "register.phonePlaceholder"
+msgstr "+34 xxx xxx xxx"
+
+msgid "register.password"
+msgstr "Contraseña"
+
+msgid "register.passwordPlaceholder"
+msgstr "Cree una contraseña segura"
+
+msgid "register.chooseModules"
+msgstr "Elija sus módulos"
+
+msgid "register.modulesNote"
+msgstr "Seleccione los módulos que desea activar. Puede cambiarlos después."
+
+msgid "register.registrationComplete"
+msgstr "¡Registro completado!"
+
+msgid "register.registrationCompleteDesc"
+msgstr ""
+"Su escuela ha sido registrada. Ahora puede acceder al panel de "
+"administración."
+
+msgid "register.goToAdmin"
+msgstr "Ir al panel de administración"
+
+msgid "register.back"
+msgstr "Atrás"
+
+msgid "register.next"
+msgstr "Siguiente"
+
+msgid "register.completeRegistration"
+msgstr "Completar registro"
+
+msgid "register.modules.dashboard"
+msgstr "Panel de control y analíticas"
+
+msgid "register.modules.attendance"
+msgstr "Módulo de asistencia"
+
+msgid "register.modules.collegePrep"
+msgstr "Centro de preparación universitaria"
+
+msgid "register.modules.communication"
+msgstr "Comunicación"
+
+msgid "register.modules.services"
+msgstr "Servicios (Buffet)"
+
+msgid "register.modules.alumni"
+msgstr "Red de egresados"
+
+msgid "register.modules.scheduler"
+msgstr "Programador automático"
+
+msgid "testimonials.t1"
+msgstr ""
+"SmartSchool AI redujo nuestra carga administrativa en un 60%. Solo el "
+"programador nos ahorró 15 horas por semana."
+
+msgid "testimonials.t2"
+msgstr ""
+"La comunicación unificada reemplazó 12 grupos de WhatsApp diferentes. Los "
+"padres aman la transparencia."
+
+msgid "testimonials.t3"
+msgstr ""
+"Las tasas de aceptación universitaria mejoraron un 23% tras implementar el "
+"Centro de Preparación."
+
+msgid "scheduler.subjects.mathematics"
+msgstr "Matemáticas"
+
+msgid "scheduler.subjects.physics"
+msgstr "Física"
+
+msgid "scheduler.subjects.english"
+msgstr "Inglés"
+
+msgid "scheduler.subjects.biology"
+msgstr "Biología"
+
+msgid "scheduler.subjects.lunch"
+msgstr "Hora de almuerzo"
+
+msgid "scheduler.subjects.history"
+msgstr "Historia"
+
+msgid "gateway.userTitle"
+msgstr "Iniciar sesión en el portal"
+
+msgid "gateway.userDesc"
+msgstr ""
+"Para estudiantes, padres y profesores — acceso a calificaciones, horarios y "
+"preparación universitaria."
+
+msgid "gateway.userCta"
+msgstr "Ir al portal"
+
+msgid "gateway.businessTitle"
+msgstr "SmartSchool para empresas"
+
+msgid "gateway.businessDesc"
+msgstr ""
+"Para administraciones escolares. Explore funciones, horarios automáticos, "
+"precios e integración."
+
+msgid "gateway.businessCta"
+msgstr "Explorar plataforma"
+
+msgid "gateway.tags.grades"
+msgstr "Calificaciones"
+
+msgid "gateway.tags.schedules"
+msgstr "Horarios"
+
+msgid "gateway.tags.collegePrep"
+msgstr "Prep. universitaria"
+
+msgid "gateway.tags.buffet"
+msgstr "Cafetería"
+
+msgid "gateway.tags.analytics"
+msgstr "Analíticas"
+
+msgid "gateway.tags.admin"
+msgstr "Administración"
+
+msgid "gateway.tags.integration"
+msgstr "Integración"
+
+msgid "gateway.tags.scheduler"
+msgstr "Horario"
+
+msgid "tiles.todaySchedule"
+msgstr "Horario de hoy"
+
+msgid "tiles.gradeAnalytics"
+msgstr "Análisis de notas"
+
+msgid "tiles.targetCalculator"
+msgstr "Calculadora de metas"
+
+msgid "tiles.attendance"
+msgstr "Asistencia"
+
+msgid "tiles.schedule"
+msgstr "Horario"
+
+msgid "tiles.deadlines"
+msgstr "Fechas límite"
+
+msgid "tiles.projectHub"
+msgstr "Centro de proyectos"
+
+msgid "tiles.projectHubDesc"
+msgstr "Gestiona y rastrea tus proyectos en equipo."
+
+msgid "tiles.essayEditor"
+msgstr "Editor de ensayos"
+
+msgid "tiles.aiFeedback"
+msgstr "Retroalimentación IA"
+
+msgid "tiles.portfolio"
+msgstr "Portafolio"
+
+msgid "tiles.onlineBuffet"
+msgstr "Buffet en línea"
+
+msgid "tiles.announcements"
+msgstr "Anuncios"
+
+msgid "tiles.payments"
+msgstr "Pagos"
+
+msgid "tiles.paymentsDesc"
+msgstr "Ver y gestionar el historial de pagos."
+
+msgid "tiles.schoolChats"
+msgstr "Chats escolares"
+
+msgid "tiles.groupEducation"
+msgstr "Educación"
+
+msgid "tiles.groupPlanning"
+msgstr "Planificación"
+
+msgid "tiles.groupCollege"
+msgstr "Prep. universitaria"
+
+msgid "tiles.groupServices"
+msgstr "Servicios"
+
+msgid "tiles.groupCommunication"
+msgstr "Comunicación"
+
+msgid "tiles.groupTeacher"
+msgstr "Enseñanza"
+
+msgid "tiles.groupCounselor"
+msgstr "Orientación"
+
+msgid "tiles.groupCurator"
+msgstr "Monitoreo"
+
+msgid "notifications.title"
+msgstr "Notificaciones"
+
+msgid "notifications.newGrade"
+msgstr "Nueva nota publicada"
+
+msgid "notifications.newMessage"
+msgstr "Nuevo mensaje"
+
+msgid "notifications.deadlineAlert"
+msgstr "Fecha límite próxima"
+
+msgid "bellSetup.title"
+msgstr "Configuración de timbres"
+
+msgid "bellSetup.subtitle"
+msgstr ""
+"Configura los periodos y el sistema calculará los descansos automáticamente"
+
+msgid "bellSetup.configuration"
+msgstr "Configuración"
+
+msgid "bellSetup.totalPeriods"
+msgstr "Periodos por día"
+
+msgid "bellSetup.lessonDuration"
+msgstr "Duración de clase (min)"
+
+msgid "bellSetup.startTime"
+msgstr "Hora de inicio"
+
+msgid "bellSetup.endTime"
+msgstr "Hora de fin"
+
+msgid "bellSetup.calculate"
+msgstr "Calcular automáticamente"
+
+msgid "bellSetup.calculated"
+msgstr "¡Horario de timbres calculado!"
+
+msgid "bellSetup.insufficientTime"
+msgstr "Tiempo insuficiente para todos los periodos"
+
+msgid "bellSetup.generatedSchedule"
+msgstr "Horario generado"
+
+msgid "bellSetup.period"
+msgstr "Periodo"
+
+msgid "bellSetup.breakTime"
+msgstr "Descanso"
+
+msgid "bellSetup.minutes"
+msgstr "min"
+
+msgid "bellSetup.save"
+msgstr "Guardar horario"
+
+msgid "teacher.title"
+msgstr "Panel del Profesor"
+
+msgid "teacher.subtitle"
+msgstr "Gestiona tus clases y asistencia"
+
+msgid "teacher.currentLesson"
+msgstr "Clase actual"
+
+msgid "teacher.myScheduleToday"
+msgstr "Mi horario de hoy"
+
+msgid "teacher.now"
+msgstr "AHORA"
+
+msgid "teacher.attendanceFor"
+msgstr "Asistencia de"
+
+msgid "teacher.prevPeriod"
+msgstr "periodo anterior"
+
+msgid "teacher.present"
+msgstr "Presente"
+
+msgid "teacher.absent"
+msgstr "Ausente"
+
+msgid "teacher.late"
+msgstr "Tarde"
+
+msgid "teacher.saveAttendance"
+msgstr "Guardar asistencia"
+
+msgid "counselor.title"
+msgstr "Centro del Orientador"
+
+msgid "counselor.subtitle"
+msgstr "Gestiona expedientes, ensayos y actividades estudiantiles"
+
+msgid "counselor.essayQueue"
+msgstr "Cola de ensayos"
+
+msgid "counselor.essayQueueDesc"
+msgstr "Revisa ensayos en orden de llegada"
+
+msgid "counselor.transcripts"
+msgstr "Expedientes"
+
+msgid "counselor.transcriptDesc"
+msgstr "Genera expedientes oficiales e informes de GPA"
+
+msgid "counselor.activityMonitor"
+msgstr "Monitor de actividades"
+
+msgid "counselor.activityDesc"
+msgstr "Ver y aprobar actividades extracurriculares"
+
+msgid "counselor.pending"
+msgstr "Pendiente"
+
+msgid "counselor.reviewed"
+msgstr "Revisado"
+
+msgid "counselor.credits"
+msgstr "créditos"
+
+msgid "counselor.generatePDF"
+msgstr "Generar PDF"
+
+msgid "counselor.approved"
+msgstr "Aprobado"
+
+msgid "counselor.approve"
+msgstr "Aprobar"
+
+msgid "counselor.grades"
+msgstr "calificaciones"
+
+msgid "curator.title"
+msgstr "Vista del Curador"
+
+msgid "curator.subtitle"
+msgstr "Buscar alumnos y verificar ubicaciones de clases"
+
+msgid "curator.searchPlaceholder"
+msgstr "Buscar por nombre o clase..."
+
+msgid "curator.searchHint"
+msgstr "Busca un alumno o clase para ver su ubicación actual"
+
+msgid "curator.studentResults"
+msgstr "Resultados"
+
+msgid "curator.classSchedule"
+msgstr "Horario de clase"
+
+msgid "curator.class"
+msgstr "Clase"
+
+msgid "curator.scheduleSearch"
+msgstr "Búsqueda de horario"
+
+msgid "curator.readOnlyNote"
+msgstr "Vista de solo lectura."
+
+msgid "crud.title"
+msgstr "Gestión de Recursos"
+
+msgid "crud.subtitle"
+msgstr "Gestionar materias, profesores y aulas"
+
+msgid "crud.subjects"
+msgstr "Materias"
+
+msgid "crud.teachers"
+msgstr "Profesores"
+
+msgid "crud.rooms"
+msgstr "Aulas"
+
+msgid "crud.manageSubjects"
+msgstr "Gestionar Materias"
+
+msgid "crud.manageTeachers"
+msgstr "Gestionar Profesores"
+
+msgid "crud.manageRooms"
+msgstr "Gestionar Aulas"
+
+msgid "crud.subjectName"
+msgstr "Nombre de materia"
+
+msgid "crud.teacherName"
+msgstr "Nombre del profesor"
+
+msgid "crud.teacherEmail"
+msgstr "Email (opcional)"
+
+msgid "crud.selectSubject"
+msgstr "Seleccionar materia"
+
+msgid "crud.roomName"
+msgstr "Nombre del aula"
+
+msgid "crud.capacity"
+msgstr "Capacidad"
+
+msgid "crud.added"
+msgstr "Añadido correctamente"
+
+msgid "crud.deleted"
+msgstr "Eliminado correctamente"
+
+msgid "crud.error"
+msgstr "Ha ocurrido un error"
+
+msgid "crud.noItems"
+msgstr "Sin datos aún"
+
+msgid "vault.title"
+msgstr "Bóveda de Documentos"
+
+msgid "vault.subtitle"
+msgstr "Expedientes, recomendaciones, certificados y premios"
+
+msgid "vault.dragDrop"
+msgstr "Arrastra archivos aquí (PDF, JPG)"
+
+msgid "vault.browse"
+msgstr "Explorar archivos"
+
+msgid "vault.uploaded"
+msgstr "Archivo(s) subido(s)"
+
+msgid "vault.draft"
+msgstr "Borrador"
+
+msgid "vault.verified"
+msgstr "Verificado"
+
+msgid "vault.official"
+msgstr "Oficial"
+
+msgid "vault.noDocuments"
+msgstr "No hay documentos subidos"
+
+msgid "vault.versionHistory"
+msgstr "Historial de versiones"
+
+msgid "vault.noVersions"
+msgstr "Sin versiones registradas"

@@ -1,0 +1,1482 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: 1.0\n"
+"Report-Msgid-Bugs-To: you@example.com\n"
+"POT-Creation-Date: 2026-04-16 12:00+0000\n"
+"PO-Revision-Date: 2026-04-16 12:00+0000\n"
+"Last-Translator: you <you@example.com>\n"
+"Language-Team: Russian <yourteam@example.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid "nav.features"
+msgstr "Features"
+
+msgid "nav.scheduler"
+msgstr "Scheduler"
+
+msgid "nav.pricing"
+msgstr "Pricing"
+
+msgid "nav.testimonials"
+msgstr "Testimonials"
+
+msgid "nav.signIn"
+msgstr "Sign In"
+
+msgid "nav.registerSchool"
+msgstr "Register Your School"
+
+msgid "roles.admin"
+msgstr "Admin"
+
+msgid "roles.teacher"
+msgstr "Teacher"
+
+msgid "roles.student"
+msgstr "Student"
+
+msgid "roles.counselor"
+msgstr "Counselor"
+
+msgid "roles.curator"
+msgstr "Curator"
+
+msgid "onboarding.title"
+msgstr "School Setup Wizard"
+
+msgid "onboarding.subtitle"
+msgstr "Set up your school in 4 simple steps"
+
+msgid "onboarding.addSubjects"
+msgstr "Add Subjects"
+
+msgid "onboarding.registerTeachers"
+msgstr "Register Teachers"
+
+msgid "onboarding.createClasses"
+msgstr "Create Classes"
+
+msgid "onboarding.generateSchedule"
+msgstr "Generate Schedule"
+
+msgid "onboarding.step0Desc"
+msgstr "Add the subjects taught at your school"
+
+msgid "onboarding.step1Desc"
+msgstr "Register teachers and assign their subjects"
+
+msgid "onboarding.step2Desc"
+msgstr "Create classes and set student capacity"
+
+msgid "onboarding.step3Desc"
+msgstr "Generate an optimized weekly schedule"
+
+msgid "onboarding.subjectPlaceholder"
+msgstr "e.g. Mathematics"
+
+msgid "onboarding.teacherNamePlaceholder"
+msgstr "Teacher name"
+
+msgid "onboarding.selectSubject"
+msgstr "Select subject"
+
+msgid "onboarding.classNamePlaceholder"
+msgstr "e.g. Grade 10A"
+
+msgid "onboarding.studentCountPlaceholder"
+msgstr "Students"
+
+msgid "onboarding.students"
+msgstr "students"
+
+msgid "onboarding.readyToGenerate"
+msgstr "Ready to generate the weekly schedule based on your data."
+
+msgid "onboarding.subjectsCount"
+msgstr "subjects"
+
+msgid "onboarding.teachersCount"
+msgstr "teachers"
+
+msgid "onboarding.classesCount"
+msgstr "classes"
+
+msgid "onboarding.generateBtn"
+msgstr "Generate Schedule"
+
+msgid "onboarding.conflictsFound"
+msgstr "{{count}} conflict(s) detected!"
+
+msgid "onboarding.scheduleGenerated"
+msgstr "Schedule generated successfully!"
+
+msgid "onboarding.finish"
+msgstr "Finish Setup"
+
+msgid "onboarding.mon"
+msgstr "Mon"
+
+msgid "onboarding.tue"
+msgstr "Tue"
+
+msgid "onboarding.wed"
+msgstr "Wed"
+
+msgid "onboarding.thu"
+msgstr "Thu"
+
+msgid "onboarding.fri"
+msgstr "Fri"
+
+msgid "schedule.title"
+msgstr "Schedule Manager"
+
+msgid "schedule.subtitle"
+msgstr "View and manage the weekly timetable"
+
+msgid "schedule.selectClass"
+msgstr "Select class"
+
+msgid "schedule.regenerate"
+msgstr "Regenerate"
+
+msgid "schedule.weeklyGrid"
+msgstr "Weekly Timetable"
+
+msgid "schedule.noSchedule"
+msgstr "No schedule generated yet. Go to Resource Setup to add data first."
+
+msgid "schedule.period"
+msgstr "Period"
+
+msgid "schedule.lunch"
+msgstr "Lunch"
+
+msgid "schedule.conflict"
+msgstr "Conflict"
+
+msgid "schedule.conflictHint"
+msgstr ""
+"Some slots have teacher or room conflicts. Regenerate or adjust resources."
+
+msgid "distribution.title"
+msgstr "Student Distribution"
+
+msgid "distribution.subtitle"
+msgstr "Assign students to classes"
+
+msgid "distribution.classes"
+msgstr "Classes"
+
+msgid "distribution.selectClass"
+msgstr "Select a Class"
+
+msgid "distribution.noClasses"
+msgstr "No classes created yet."
+
+msgid "distribution.studentNamePlaceholder"
+msgstr "Student name"
+
+msgid "distribution.noStudents"
+msgstr "No students assigned yet."
+
+msgid "distribution.selectClassPrompt"
+msgstr "Select a class from the left to manage students."
+
+msgid "studentSchedule.title"
+msgstr "My Schedule"
+
+msgid "studentSchedule.classLabel"
+msgstr "Class"
+
+msgid "studentSchedule.noClass"
+msgstr "No class assigned"
+
+msgid "studentSchedule.weeklyView"
+msgstr "Weekly Timetable"
+
+msgid "studentSchedule.noSchedule"
+msgstr "No schedule available yet."
+
+msgid "studentCourses.title"
+msgstr "My Courses"
+
+msgid "studentCourses.subtitle"
+msgstr "Your assigned subjects and teachers"
+
+msgid "studentCourses.noCourses"
+msgstr "No courses available yet."
+
+msgid "studentCourses.noTeacher"
+msgstr "No teacher assigned"
+
+msgid "landing.badge"
+msgstr "Trusted by 500+ Schools Worldwide"
+
+msgid "landing.heroTitle1"
+msgstr "SmartSchool AI: Unified Platform for"
+
+msgid "landing.heroTitle2"
+msgstr "School Life"
+
+msgid "landing.heroTitle3"
+msgstr "and"
+
+msgid "landing.heroTitle4"
+msgstr "Admissions"
+
+msgid "landing.heroSubtitle"
+msgstr ""
+"Replace fragmented WhatsApp groups, scattered spreadsheets, and manual "
+"scheduling with one intelligent ecosystem designed for modern schools."
+
+msgid "landing.seeHow"
+msgstr "See How It Works"
+
+msgid "landing.freeTrial"
+msgstr "Free 30-day trial"
+
+msgid "landing.noCard"
+msgstr "No credit card required"
+
+msgid "landing.setupTime"
+msgstr "Setup in 10 minutes"
+
+msgid "landing.problemTitle"
+msgstr "The Problem We Solve"
+
+msgid "landing.problemSubtitle"
+msgstr ""
+"Schools rely on disconnected tools that waste time and lose data. "
+"SmartSchool AI brings everything together."
+
+msgid "landing.problem"
+msgstr "Problem"
+
+msgid "landing.solution"
+msgstr "Solution"
+
+msgid "landing.featuresTitle"
+msgstr "Everything Your School Needs"
+
+msgid "landing.featuresSubtitle"
+msgstr ""
+"A comprehensive suite of tools designed specifically for K-12 "
+"administration."
+
+msgid "landing.schedulerTitle"
+msgstr "Automatic Scheduler with Conflict Detection"
+
+msgid "landing.schedulerSubtitle"
+msgstr ""
+"Our AI generates optimal timetables and highlights conflicts before they "
+"happen."
+
+msgid "landing.schedulerLabel"
+msgstr "Auto-generated"
+
+msgid "landing.roomConflict"
+msgstr "Room Conflict"
+
+msgid "landing.pricingTitle"
+msgstr "Simple, Transparent Pricing"
+
+msgid "landing.pricingSubtitle"
+msgstr "Choose the plan that fits your institution's needs."
+
+msgid "landing.mostPopular"
+msgstr "Most Popular"
+
+msgid "landing.startTrial"
+msgstr "Start Free Trial"
+
+msgid "landing.contactSales"
+msgstr "Contact Sales"
+
+msgid "landing.testimonialsTitle"
+msgstr "Trusted by Educators"
+
+msgid "landing.ctaTitle"
+msgstr "Ready to Transform Your School?"
+
+msgid "landing.ctaSubtitle"
+msgstr ""
+"Join 500+ schools already using SmartSchool AI to streamline operations and "
+"improve outcomes."
+
+msgid "landing.copyright"
+msgstr "© 2026 SmartSchool AI. All rights reserved."
+
+msgid "landing.mondaySchedule"
+msgstr "Monday Schedule — Class 12-A"
+
+msgid "pricing.basic.name"
+msgstr "Basic"
+
+msgid "pricing.basic.price"
+msgstr "$299"
+
+msgid "pricing.basic.period"
+msgstr "/month"
+
+msgid "pricing.basic.desc"
+msgstr "For small schools up to 200 students"
+
+msgid "pricing.pro.name"
+msgstr "Pro"
+
+msgid "pricing.pro.price"
+msgstr "$799"
+
+msgid "pricing.pro.period"
+msgstr "/month"
+
+msgid "pricing.pro.desc"
+msgstr "For growing schools up to 1,000 students"
+
+msgid "pricing.institutional.name"
+msgstr "Institutional"
+
+msgid "pricing.institutional.price"
+msgstr "Custom"
+
+msgid "pricing.institutional.period"
+msgstr ""
+
+msgid "pricing.institutional.desc"
+msgstr "For school districts and large institutions"
+
+msgid "pricing.features.dashboardAnalytics"
+msgstr "Dashboard & Analytics"
+
+msgid "pricing.features.attendanceModule"
+msgstr "Attendance Module"
+
+msgid "pricing.features.communicationHub"
+msgstr "Communication Hub"
+
+msgid "pricing.features.adminAccounts5"
+msgstr "5 Admin Accounts"
+
+msgid "pricing.features.emailSupport"
+msgstr "Email Support"
+
+msgid "pricing.features.everythingBasic"
+msgstr "Everything in Basic"
+
+msgid "pricing.features.collegePrepHub"
+msgstr "College Prep Hub"
+
+msgid "pricing.features.aiEssayFeedback"
+msgstr "AI Essay Feedback"
+
+msgid "pricing.features.autoScheduler"
+msgstr "Automatic Scheduler"
+
+msgid "pricing.features.prioritySupport"
+msgstr "Priority Support"
+
+msgid "pricing.features.apiAccess"
+msgstr "API Access"
+
+msgid "pricing.features.everythingPro"
+msgstr "Everything in Pro"
+
+msgid "pricing.features.unlimitedStudents"
+msgstr "Unlimited Students"
+
+msgid "pricing.features.alumniNetwork"
+msgstr "Alumni Network"
+
+msgid "pricing.features.customIntegrations"
+msgstr "Custom Integrations"
+
+msgid "pricing.features.dedicatedManager"
+msgstr "Dedicated Account Manager"
+
+msgid "pricing.features.slaGuarantee"
+msgstr "SLA Guarantee"
+
+msgid "pricing.features.onPremise"
+msgstr "On-premise Option"
+
+msgid "problems.fragmented"
+msgstr "Fragmented Communication"
+
+msgid "problems.fragmentedSolution"
+msgstr "One unified platform for all school messaging"
+
+msgid "problems.manual"
+msgstr "Manual Scheduling"
+
+msgid "problems.manualSolution"
+msgstr "AI scheduler with automatic conflict resolution"
+
+msgid "problems.disconnected"
+msgstr "Disconnected Data"
+
+msgid "problems.disconnectedSolution"
+msgstr "Centralized analytics across all modules"
+
+msgid "problems.paper"
+msgstr "Paper-based Processes"
+
+msgid "problems.paperSolution"
+msgstr "Digital-first workflows from attendance to admissions"
+
+msgid "features.autoScheduler"
+msgstr "Automatic Scheduler"
+
+msgid "features.autoSchedulerDesc"
+msgstr "AI-powered timetable generation with real-time conflict detection"
+
+msgid "features.perfAnalytics"
+msgstr "Performance Analytics"
+
+msgid "features.perfAnalyticsDesc"
+msgstr "Track student progress with interactive dashboards and grade trends"
+
+msgid "features.unifiedComm"
+msgstr "Unified Communication"
+
+msgid "features.unifiedCommDesc"
+msgstr "Replace fragmented WhatsApp groups with organized class channels"
+
+msgid "features.faceIdAttendance"
+msgstr "Face ID Attendance"
+
+msgid "features.faceIdAttendanceDesc"
+msgstr "Biometric-verified attendance logs with instant parent notifications"
+
+msgid "features.collegePrepHub"
+msgstr "College Prep Hub"
+
+msgid "features.collegePrepHubDesc"
+msgstr "AI essay feedback, portfolio management, and recommendation tracking"
+
+msgid "features.smartAlerts"
+msgstr "Smart Alerts"
+
+msgid "features.smartAlertsDesc"
+msgstr "Teacher overload warnings, deadline reminders, and admission insights"
+
+msgid "dashboard.title"
+msgstr "Dashboard"
+
+msgid "dashboard.welcome"
+msgstr "Welcome back! Here's your overview."
+
+msgid "dashboard.students"
+msgstr "Students"
+
+msgid "dashboard.avgGpa"
+msgstr "Avg. GPA"
+
+msgid "dashboard.attendance"
+msgstr "Attendance"
+
+msgid "dashboard.courses"
+msgstr "Courses"
+
+msgid "dashboard.performanceAnalytics"
+msgstr "Performance Analytics"
+
+msgid "dashboard.gradeTrends"
+msgstr "Grade trends over time"
+
+msgid "dashboard.deadlineCalendar"
+msgstr "Deadline Calendar"
+
+msgid "dashboard.upcomingDueDates"
+msgstr "Upcoming due dates"
+
+msgid "dashboard.targetGradeCalc"
+msgstr "Target Grade Calculator"
+
+msgid "dashboard.setGoals"
+msgstr "Set your goals and track progress"
+
+msgid "dashboard.ofTarget"
+msgstr "of target"
+
+msgid "dashboard.math"
+msgstr "Math"
+
+msgid "dashboard.science"
+msgstr "Science"
+
+msgid "dashboard.english"
+msgstr "English"
+
+msgid "dashboard.mathematics"
+msgstr "Mathematics"
+
+msgid "dashboard.assignment"
+msgstr "Assignment"
+
+msgid "dashboard.project"
+msgstr "Project"
+
+msgid "dashboard.essay"
+msgstr "Essay"
+
+msgid "dashboard.exam"
+msgstr "Exam"
+
+msgid "dashboard.portfolio"
+msgstr "Portfolio"
+
+msgid "attendance.title"
+msgstr "Attendance"
+
+msgid "attendance.subtitle"
+msgstr "Face ID verified attendance logs"
+
+msgid "attendance.present"
+msgstr "Present"
+
+msgid "attendance.late"
+msgstr "Late"
+
+msgid "attendance.absent"
+msgstr "Absent"
+
+msgid "attendance.all"
+msgstr "All"
+
+msgid "attendance.studentGrid"
+msgstr "Student Attendance Grid"
+
+msgid "collegePrep.title"
+msgstr "College Prep Hub"
+
+msgid "collegePrep.subtitle"
+msgstr "Essay writing, AI feedback, and portfolio management"
+
+msgid "collegePrep.essayWriting"
+msgstr "Essay Writing"
+
+msgid "collegePrep.commonApp"
+msgstr "Common App Personal Statement"
+
+msgid "collegePrep.startWriting"
+msgstr "Start writing your essay..."
+
+msgid "collegePrep.words"
+msgstr "words"
+
+msgid "collegePrep.saveDraft"
+msgstr "Save Draft"
+
+msgid "collegePrep.submitReview"
+msgstr "Submit for Review"
+
+msgid "collegePrep.aiFeedback"
+msgstr "AI Feedback"
+
+msgid "collegePrep.realTimeAnalysis"
+msgstr "Real-time analysis"
+
+msgid "collegePrep.strength"
+msgstr "strength"
+
+msgid "collegePrep.improvement"
+msgstr "improvement"
+
+msgid "collegePrep.tip"
+msgstr "tip"
+
+msgid "collegePrep.portfolioStorage"
+msgstr "Portfolio Storage"
+
+msgid "collegePrep.certsAwards"
+msgstr "Certificates and awards"
+
+msgid "collegePrep.uploadCert"
+msgstr "Upload Certificate"
+
+msgid "collegePrep.certificate"
+msgstr "Certificate"
+
+msgid "collegePrep.award"
+msgstr "Award"
+
+msgid "collegePrep.featuredEssay"
+msgstr "Featured Essay"
+
+msgid "alumni.title"
+msgstr "Hall of Fame"
+
+msgid "alumni.subtitle"
+msgstr "Celebrating our outstanding alumni"
+
+msgid "alumni.readEssay"
+msgstr "Read Essay"
+
+msgid "alumni.profile"
+msgstr "Profile"
+
+msgid "alumni.featuredEssay"
+msgstr "Featured Essay"
+
+msgid "services.title"
+msgstr "Online Buffet"
+
+msgid "services.subtitle"
+msgstr "Pre-order your meals for today"
+
+msgid "services.items"
+msgstr "items"
+
+msgid "services.preOrder"
+msgstr "Pre-order"
+
+msgid "services.addedToOrder"
+msgstr "added to order!"
+
+msgid "admin.title"
+msgstr "Admin Control Panel"
+
+msgid "admin.subtitle"
+msgstr "School overview for principals and administrators"
+
+msgid "admin.totalStudents"
+msgstr "Total Students"
+
+msgid "admin.avgAttendance"
+msgstr "Avg Attendance"
+
+msgid "admin.pendingReports"
+msgstr "Pending Reports"
+
+msgid "admin.teacherHoursAvg"
+msgstr "Teacher Hours Avg"
+
+msgid "admin.weeklyReport"
+msgstr "Weekly Report"
+
+msgid "admin.weeklyReportSub"
+msgstr "Attendance & submissions this week"
+
+msgid "admin.teacherWorkload"
+msgstr "Teacher Workload Alerts"
+
+msgid "admin.weeklyHours"
+msgstr "Weekly teaching hours"
+
+msgid "admin.admissionAnalytics"
+msgstr "Admission Success Analytics"
+
+msgid "admin.admissionSub"
+msgstr "Application funnel over time"
+
+msgid "admin.admissionBreakdown"
+msgstr "Admission Breakdown"
+
+msgid "admin.currentCycle"
+msgstr "Current cycle"
+
+msgid "admin.accepted"
+msgstr "Accepted"
+
+msgid "admin.waitlisted"
+msgstr "Waitlisted"
+
+msgid "admin.rejected"
+msgstr "Rejected"
+
+msgid "admin.overloaded"
+msgstr "overloaded"
+
+msgid "admin.high"
+msgstr "high"
+
+msgid "admin.normal"
+msgstr "normal"
+
+msgid "admin.applications"
+msgstr "Applications"
+
+msgid "admin.enrolled"
+msgstr "Enrolled"
+
+msgid "register.title"
+msgstr "Register Your School"
+
+msgid "register.subtitle"
+msgstr "Get started in just a few steps"
+
+msgid "register.schoolInfo"
+msgstr "School Info"
+
+msgid "register.adminAccount"
+msgstr "Admin Account"
+
+msgid "register.configuration"
+msgstr "Configuration"
+
+msgid "register.complete"
+msgstr "Complete"
+
+msgid "register.schoolName"
+msgstr "School Name"
+
+msgid "register.schoolNamePlaceholder"
+msgstr "e.g. Lincoln Academy"
+
+msgid "register.district"
+msgstr "District / Region"
+
+msgid "register.districtPlaceholder"
+msgstr "e.g. Almaty Region"
+
+msgid "register.country"
+msgstr "Country"
+
+msgid "register.countryPlaceholder"
+msgstr "e.g. Kazakhstan"
+
+msgid "register.studentCount"
+msgstr "Number of Students"
+
+msgid "register.studentCountPlaceholder"
+msgstr "e.g. 500"
+
+msgid "register.schoolInformation"
+msgstr "School Information"
+
+msgid "register.administratorAccount"
+msgstr "Administrator Account"
+
+msgid "register.fullName"
+msgstr "Full Name"
+
+msgid "register.fullNamePlaceholder"
+msgstr "e.g. John Smith"
+
+msgid "register.email"
+msgstr "Email Address"
+
+msgid "register.emailPlaceholder"
+msgstr "admin@school.edu"
+
+msgid "register.phone"
+msgstr "Phone Number"
+
+msgid "register.phonePlaceholder"
+msgstr "+7 (xxx) xxx-xxxx"
+
+msgid "register.password"
+msgstr "Password"
+
+msgid "register.passwordPlaceholder"
+msgstr "Create a strong password"
+
+msgid "register.chooseModules"
+msgstr "Choose Your Modules"
+
+msgid "register.modulesNote"
+msgstr "Select the modules you want to activate. You can change these later."
+
+msgid "register.registrationComplete"
+msgstr "Registration Complete!"
+
+msgid "register.registrationCompleteDesc"
+msgstr ""
+"Your school has been registered. You can now access the admin dashboard."
+
+msgid "register.goToAdmin"
+msgstr "Go to Admin Dashboard"
+
+msgid "register.back"
+msgstr "Back"
+
+msgid "register.next"
+msgstr "Next"
+
+msgid "register.completeRegistration"
+msgstr "Complete Registration"
+
+msgid "register.modules.dashboard"
+msgstr "Dashboard & Analytics"
+
+msgid "register.modules.attendance"
+msgstr "Attendance Module"
+
+msgid "register.modules.collegePrep"
+msgstr "College Prep Hub"
+
+msgid "register.modules.communication"
+msgstr "Communication"
+
+msgid "register.modules.services"
+msgstr "Services (Buffet)"
+
+msgid "register.modules.alumni"
+msgstr "Alumni Network"
+
+msgid "register.modules.scheduler"
+msgstr "Automatic Scheduler"
+
+msgid "testimonials.t1"
+msgstr ""
+"SmartSchool AI reduced our admin workload by 60%. The scheduler alone saved "
+"us 15 hours per week."
+
+msgid "testimonials.t2"
+msgstr ""
+"The unified communication replaced 12 different WhatsApp groups. Parents "
+"love the transparency."
+
+msgid "testimonials.t3"
+msgstr ""
+"College acceptance rates improved 23% after implementing the College Prep "
+"Hub."
+
+msgid "scheduler.subjects.mathematics"
+msgstr "Mathematics"
+
+msgid "scheduler.subjects.physics"
+msgstr "Physics"
+
+msgid "scheduler.subjects.english"
+msgstr "English"
+
+msgid "scheduler.subjects.biology"
+msgstr "Biology"
+
+msgid "scheduler.subjects.lunch"
+msgstr "Lunch Break"
+
+msgid "scheduler.subjects.history"
+msgstr "History"
+
+msgid "gateway.userTitle"
+msgstr "Sign In to Portal"
+
+msgid "gateway.userDesc"
+msgstr ""
+"For students, parents, and teachers to access grades, schedules, and college"
+" prep."
+
+msgid "gateway.userCta"
+msgstr "Go to Portal"
+
+msgid "gateway.businessTitle"
+msgstr "SmartSchool for Business"
+
+msgid "gateway.businessDesc"
+msgstr ""
+"For school administrations. Explore features, automated scheduling, pricing,"
+" and integration."
+
+msgid "gateway.businessCta"
+msgstr "Explore Platform"
+
+msgid "gateway.tags.grades"
+msgstr "Grades"
+
+msgid "gateway.tags.schedules"
+msgstr "Schedules"
+
+msgid "gateway.tags.collegePrep"
+msgstr "College Prep"
+
+msgid "gateway.tags.buffet"
+msgstr "Buffet"
+
+msgid "gateway.tags.analytics"
+msgstr "Analytics"
+
+msgid "gateway.tags.admin"
+msgstr "Administration"
+
+msgid "gateway.tags.integration"
+msgstr "Integration"
+
+msgid "gateway.tags.scheduler"
+msgstr "Scheduler"
+
+msgid "tiles.todaySchedule"
+msgstr "Today's Schedule"
+
+msgid "tiles.gradeAnalytics"
+msgstr "Grade Analytics"
+
+msgid "tiles.targetCalculator"
+msgstr "Target Calculator"
+
+msgid "tiles.attendance"
+msgstr "Attendance"
+
+msgid "tiles.schedule"
+msgstr "Schedule"
+
+msgid "tiles.deadlines"
+msgstr "Deadlines"
+
+msgid "tiles.projectHub"
+msgstr "Project Hub"
+
+msgid "tiles.projectHubDesc"
+msgstr "Manage and track your team projects in one place."
+
+msgid "tiles.essayEditor"
+msgstr "Essay Editor"
+
+msgid "tiles.aiFeedback"
+msgstr "AI Feedback"
+
+msgid "tiles.portfolio"
+msgstr "Portfolio"
+
+msgid "tiles.onlineBuffet"
+msgstr "Online Buffet"
+
+msgid "tiles.announcements"
+msgstr "Announcements"
+
+msgid "tiles.payments"
+msgstr "Payments"
+
+msgid "tiles.paymentsDesc"
+msgstr "View and manage your school payment history."
+
+msgid "tiles.schoolChats"
+msgstr "School Chats"
+
+msgid "tiles.groupEducation"
+msgstr "Education"
+
+msgid "tiles.groupPlanning"
+msgstr "Planning"
+
+msgid "tiles.groupCollege"
+msgstr "College Prep"
+
+msgid "tiles.groupServices"
+msgstr "Services"
+
+msgid "tiles.groupCommunication"
+msgstr "Communication"
+
+msgid "tiles.groupTeacher"
+msgstr "Teaching"
+
+msgid "tiles.groupCounselor"
+msgstr "Counseling"
+
+msgid "tiles.groupCurator"
+msgstr "Monitoring"
+
+msgid "notifications.title"
+msgstr "Notifications"
+
+msgid "notifications.newGrade"
+msgstr "New Grade Posted"
+
+msgid "notifications.newMessage"
+msgstr "New Message"
+
+msgid "notifications.deadlineAlert"
+msgstr "Deadline Approaching"
+
+msgid "bellSetup.title"
+msgstr "Smart Bell Setup"
+
+msgid "bellSetup.subtitle"
+msgstr "Configure periods and let the system calculate breaks automatically"
+
+msgid "bellSetup.configuration"
+msgstr "Configuration"
+
+msgid "bellSetup.totalPeriods"
+msgstr "Total Periods per Day"
+
+msgid "bellSetup.lessonDuration"
+msgstr "Lesson Duration (minutes)"
+
+msgid "bellSetup.startTime"
+msgstr "School Start Time"
+
+msgid "bellSetup.endTime"
+msgstr "School End Time"
+
+msgid "bellSetup.calculate"
+msgstr "Auto-Calculate Schedule"
+
+msgid "bellSetup.calculated"
+msgstr "Bell schedule calculated!"
+
+msgid "bellSetup.insufficientTime"
+msgstr "Not enough time for all periods"
+
+msgid "bellSetup.generatedSchedule"
+msgstr "Generated Bell Schedule"
+
+msgid "bellSetup.period"
+msgstr "Period"
+
+msgid "bellSetup.breakTime"
+msgstr "Break"
+
+msgid "bellSetup.minutes"
+msgstr "min"
+
+msgid "bellSetup.save"
+msgstr "Save Bell Schedule"
+
+msgid "communication.title"
+msgstr "Communication"
+
+msgid "communication.subtitle"
+msgstr "Chat with classes, teachers, and project teams"
+
+msgid "communication.channels"
+msgstr "Channels"
+
+msgid "communication.schoolChannels"
+msgstr "Channels"
+
+msgid "communication.directMessages"
+msgstr "Direct Messages"
+
+msgid "communication.typeMessage"
+msgstr "Type a message..."
+
+msgid "communication.messageTeacher"
+msgstr "Message a Teacher"
+
+msgid "communication.noMessages"
+msgstr "No messages yet. Start a conversation!"
+
+msgid "communication.edited"
+msgstr "edited"
+
+msgid "communication.dropFiles"
+msgstr "Drop files here to send"
+
+msgid "admissions.title"
+msgstr "Admissions Hub"
+
+msgid "admissions.subtitle"
+msgstr "Track your college applications, scores, and documents"
+
+msgid "admissions.exams"
+msgstr "Exams"
+
+msgid "admissions.collegeList"
+msgstr "Colleges"
+
+msgid "admissions.activities"
+msgstr "Activities"
+
+msgid "admissions.essays"
+msgstr "Essays"
+
+msgid "admissions.documents"
+msgstr "Documents"
+
+msgid "admissions.examTracker"
+msgstr "SAT / IELTS / External Exams"
+
+msgid "admissions.examTrackerSub"
+msgstr "Track target vs current scores and test dates"
+
+msgid "admissions.examName"
+msgstr "Exam"
+
+msgid "admissions.targetScore"
+msgstr "Target Score"
+
+msgid "admissions.currentBest"
+msgstr "Current Best"
+
+msgid "admissions.testDate"
+msgstr "Test Date"
+
+msgid "admissions.status"
+msgstr "Status"
+
+msgid "admissions.registered"
+msgstr "Registered"
+
+msgid "admissions.completed"
+msgstr "Completed"
+
+msgid "admissions.upcoming"
+msgstr "Upcoming"
+
+msgid "admissions.uploadScoreReport"
+msgstr "Upload Score Report (PDF/JPG)"
+
+msgid "admissions.add"
+msgstr "Add"
+
+msgid "admissions.collegeTracker"
+msgstr "College Application Tracker"
+
+msgid "admissions.collegeTrackerSub"
+msgstr "Organize by Reach, Match, and Safety schools"
+
+msgid "admissions.reach"
+msgstr "Reach (Dream)"
+
+msgid "admissions.match"
+msgstr "Match (Realistic)"
+
+msgid "admissions.safety"
+msgstr "Safety"
+
+msgid "admissions.deadline"
+msgstr "Deadline"
+
+msgid "admissions.notStarted"
+msgstr "Not Started"
+
+msgid "admissions.inProgress"
+msgstr "In Progress"
+
+msgid "admissions.submitted"
+msgstr "Submitted"
+
+msgid "admissions.universityName"
+msgstr "University name"
+
+msgid "admissions.portalUrl"
+msgstr "Portal URL"
+
+msgid "admissions.activityList"
+msgstr "Extracurricular Activities"
+
+msgid "admissions.activityListSub"
+msgstr "List up to 10 main activities"
+
+msgid "admissions.role"
+msgstr "Role"
+
+msgid "admissions.organization"
+msgstr "Organization"
+
+msgid "admissions.description"
+msgstr "Description"
+
+msgid "admissions.hrsWeek"
+msgstr "hrs/week"
+
+msgid "admissions.cert"
+msgstr "Cert"
+
+msgid "admissions.activitiesUsed"
+msgstr "activities listed"
+
+msgid "admissions.personalStatement"
+msgstr "Personal Statement"
+
+msgid "admissions.draftEditor"
+msgstr "Draft editor with version history"
+
+msgid "admissions.startWriting"
+msgstr "Start writing your essay..."
+
+msgid "admissions.words"
+msgstr "words"
+
+msgid "admissions.saveVersion"
+msgstr "Save Version"
+
+msgid "admissions.versionHistory"
+msgstr "Version History"
+
+msgid "admissions.counselorFeedback"
+msgstr "Counselor Feedback"
+
+msgid "admissions.leaveFeedback"
+msgstr "Leave feedback for the student"
+
+msgid "admissions.readOnly"
+msgstr "Read-only (from counselor)"
+
+msgid "admissions.writeFeedback"
+msgstr "Write your feedback here..."
+
+msgid "admissions.noFeedbackYet"
+msgstr "No feedback yet"
+
+msgid "admissions.adminFeedbackNote"
+msgstr "Your feedback is visible to the student in read-only mode."
+
+msgid "admissions.adminOnly"
+msgstr "Admin-only edit"
+
+msgid "admissions.vault"
+msgstr "Document Vault"
+
+msgid "admissions.vaultSub"
+msgstr "Transcripts, recommendations, and awards"
+
+msgid "admissions.uploadDocument"
+msgstr "Upload Document"
+
+msgid "sidebar.navigation"
+msgstr "Navigation"
+
+msgid "sidebar.administration"
+msgstr "Administration"
+
+msgid "sidebar.dashboard"
+msgstr "Dashboard"
+
+msgid "sidebar.attendance"
+msgstr "Attendance"
+
+msgid "sidebar.collegePrep"
+msgstr "College Prep"
+
+msgid "sidebar.admissionsHub"
+msgstr "Admissions Hub"
+
+msgid "sidebar.alumni"
+msgstr "Alumni"
+
+msgid "sidebar.communication"
+msgstr "Communication"
+
+msgid "sidebar.services"
+msgstr "Services"
+
+msgid "sidebar.adminPanel"
+msgstr "Admin Panel"
+
+msgid "sidebar.onboarding"
+msgstr "School Setup"
+
+msgid "sidebar.schedule"
+msgstr "Schedule"
+
+msgid "sidebar.studentDistribution"
+msgstr "Student Distribution"
+
+msgid "sidebar.mySchedule"
+msgstr "My Schedule"
+
+msgid "sidebar.myCourses"
+msgstr "My Courses"
+
+msgid "sidebar.bellSetup"
+msgstr "Bell Setup"
+
+msgid "sidebar.currentLesson"
+msgstr "Current Lesson"
+
+msgid "sidebar.counselorHub"
+msgstr "Counselor Hub"
+
+msgid "sidebar.essayQueue"
+msgstr "Essay Queue"
+
+msgid "sidebar.curatorSearch"
+msgstr "Search Students"
+
+msgid "sidebar.userManagement"
+msgstr "User Management"
+
+msgid "sidebar.resourceSetup"
+msgstr "Resource Setup"
+
+msgid "teacher.title"
+msgstr "Teacher Dashboard"
+
+msgid "teacher.subtitle"
+msgstr "Manage your classes and attendance"
+
+msgid "teacher.currentLesson"
+msgstr "Current Lesson"
+
+msgid "teacher.myScheduleToday"
+msgstr "My Schedule Today"
+
+msgid "teacher.now"
+msgstr "NOW"
+
+msgid "teacher.attendanceFor"
+msgstr "Attendance for"
+
+msgid "teacher.prevPeriod"
+msgstr "prev period"
+
+msgid "teacher.present"
+msgstr "Present"
+
+msgid "teacher.absent"
+msgstr "Absent"
+
+msgid "teacher.late"
+msgstr "Late"
+
+msgid "teacher.saveAttendance"
+msgstr "Save Attendance"
+
+msgid "counselor.title"
+msgstr "Counselor Hub"
+
+msgid "counselor.subtitle"
+msgstr "Manage transcripts, essays, and student activities"
+
+msgid "counselor.essayQueue"
+msgstr "Essay Queue"
+
+msgid "counselor.essayQueueDesc"
+msgstr "Review student essays in first-come, first-served order"
+
+msgid "counselor.transcripts"
+msgstr "Transcripts"
+
+msgid "counselor.transcriptDesc"
+msgstr "Generate official transcripts from grade data"
+
+msgid "counselor.activityMonitor"
+msgstr "Activity Monitor"
+
+msgid "counselor.activityDesc"
+msgstr "View and approve student extracurricular activities"
+
+msgid "counselor.pending"
+msgstr "Pending"
+
+msgid "counselor.reviewed"
+msgstr "Reviewed"
+
+msgid "counselor.credits"
+msgstr "credits"
+
+msgid "counselor.grades"
+msgstr "grades"
+
+msgid "counselor.generatePDF"
+msgstr "Generate PDF"
+
+msgid "counselor.approved"
+msgstr "Approved"
+
+msgid "counselor.approve"
+msgstr "Approve"
+
+msgid "curator.title"
+msgstr "Curator View"
+
+msgid "curator.subtitle"
+msgstr "Find students and check class locations"
+
+msgid "curator.searchPlaceholder"
+msgstr "Search student name or class..."
+
+msgid "curator.searchHint"
+msgstr "Search for a student or class to see their current location"
+
+msgid "curator.studentResults"
+msgstr "Student Results"
+
+msgid "curator.classSchedule"
+msgstr "Class Schedule"
+
+msgid "curator.class"
+msgstr "Class"
+
+msgid "curator.scheduleSearch"
+msgstr "Schedule Search"
+
+msgid "curator.readOnlyNote"
+msgstr ""
+"Curator view is read-only. You can view schedules and attendance but cannot "
+"edit grades or mark students."
+
+msgid "crud.title"
+msgstr "Resource Management"
+
+msgid "crud.subtitle"
+msgstr "Manage subjects, teachers, and rooms"
+
+msgid "crud.subjects"
+msgstr "Subjects"
+
+msgid "crud.teachers"
+msgstr "Teachers"
+
+msgid "crud.rooms"
+msgstr "Rooms"
+
+msgid "crud.manageSubjects"
+msgstr "Manage Subjects"
+
+msgid "crud.manageTeachers"
+msgstr "Manage Teachers"
+
+msgid "crud.manageRooms"
+msgstr "Manage Rooms"
+
+msgid "crud.subjectName"
+msgstr "Subject name"
+
+msgid "crud.teacherName"
+msgstr "Teacher name"
+
+msgid "crud.teacherEmail"
+msgstr "Email (optional)"
+
+msgid "crud.selectSubject"
+msgstr "Select subject"
+
+msgid "crud.roomName"
+msgstr "Room name"
+
+msgid "crud.capacity"
+msgstr "Capacity"
+
+msgid "crud.added"
+msgstr "Added successfully"
+
+msgid "crud.deleted"
+msgstr "Deleted successfully"
+
+msgid "crud.error"
+msgstr "An error occurred"
+
+msgid "crud.noItems"
+msgstr "No items yet"
+
+msgid "vault.title"
+msgstr "Document Vault"
+
+msgid "vault.subtitle"
+msgstr "Transcripts, recommendations, certificates, and awards"
+
+msgid "vault.dragDrop"
+msgstr "Drag and drop files here (PDF, JPG)"
+
+msgid "vault.browse"
+msgstr "Browse Files"
+
+msgid "vault.uploaded"
+msgstr "File(s) uploaded"
+
+msgid "vault.draft"
+msgstr "Draft"
+
+msgid "vault.verified"
+msgstr "Verified"
+
+msgid "vault.official"
+msgstr "Official"
+
+msgid "vault.noDocuments"
+msgstr "No documents uploaded yet"
+
+msgid "vault.versionHistory"
+msgstr "Version History"
+
+msgid "vault.noVersions"
+msgstr "No versions recorded"

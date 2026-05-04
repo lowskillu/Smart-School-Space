@@ -1,0 +1,1455 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: 1.0\n"
+"Report-Msgid-Bugs-To: you@example.com\n"
+"POT-Creation-Date: 2026-04-16 12:00+0000\n"
+"PO-Revision-Date: 2026-04-16 12:00+0000\n"
+"Last-Translator: you <you@example.com>\n"
+"Language-Team: Russian <yourteam@example.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid "nav.features"
+msgstr "功能"
+
+msgid "nav.scheduler"
+msgstr "课程表"
+
+msgid "nav.pricing"
+msgstr "价格"
+
+msgid "nav.testimonials"
+msgstr "用户评价"
+
+msgid "nav.signIn"
+msgstr "登录"
+
+msgid "nav.registerSchool"
+msgstr "注册学校"
+
+msgid "sidebar.navigation"
+msgstr "导航"
+
+msgid "sidebar.administration"
+msgstr "管理"
+
+msgid "sidebar.dashboard"
+msgstr "仪表盘"
+
+msgid "sidebar.attendance"
+msgstr "考勤"
+
+msgid "sidebar.collegePrep"
+msgstr "升学准备"
+
+msgid "sidebar.admissionsHub"
+msgstr "招生中心"
+
+msgid "sidebar.alumni"
+msgstr "校友"
+
+msgid "sidebar.communication"
+msgstr "通讯"
+
+msgid "sidebar.services"
+msgstr "服务"
+
+msgid "sidebar.adminPanel"
+msgstr "管理面板"
+
+msgid "sidebar.onboarding"
+msgstr "学校设置"
+
+msgid "sidebar.schedule"
+msgstr "课表"
+
+msgid "sidebar.studentDistribution"
+msgstr "学生分配"
+
+msgid "sidebar.mySchedule"
+msgstr "我的课表"
+
+msgid "sidebar.myCourses"
+msgstr "我的课程"
+
+msgid "sidebar.bellSetup"
+msgstr "铃声设置"
+
+msgid "sidebar.currentLesson"
+msgstr "当前课程"
+
+msgid "sidebar.counselorHub"
+msgstr "顾问中心"
+
+msgid "sidebar.essayQueue"
+msgstr "论文队列"
+
+msgid "sidebar.curatorSearch"
+msgstr "搜索学生"
+
+msgid "sidebar.userManagement"
+msgstr "用户管理"
+
+msgid "sidebar.resourceSetup"
+msgstr "资源管理"
+
+msgid "roles.admin"
+msgstr "管理员"
+
+msgid "roles.teacher"
+msgstr "教师"
+
+msgid "roles.student"
+msgstr "学生"
+
+msgid "roles.counselor"
+msgstr "顾问"
+
+msgid "roles.curator"
+msgstr "巡视员"
+
+msgid "onboarding.title"
+msgstr "学校设置向导"
+
+msgid "onboarding.subtitle"
+msgstr "通过4个简单步骤设置您的学校"
+
+msgid "onboarding.addSubjects"
+msgstr "添加科目"
+
+msgid "onboarding.registerTeachers"
+msgstr "注册教师"
+
+msgid "onboarding.createClasses"
+msgstr "创建班级"
+
+msgid "onboarding.generateSchedule"
+msgstr "生成课程表"
+
+msgid "onboarding.step0Desc"
+msgstr "添加您学校开设的科目"
+
+msgid "onboarding.step1Desc"
+msgstr "注册教师并分配科目"
+
+msgid "onboarding.step2Desc"
+msgstr "创建班级并设置学生人数"
+
+msgid "onboarding.step3Desc"
+msgstr "生成优化的每周课程表"
+
+msgid "onboarding.subjectPlaceholder"
+msgstr "例如 数学"
+
+msgid "onboarding.teacherNamePlaceholder"
+msgstr "教师姓名"
+
+msgid "onboarding.selectSubject"
+msgstr "选择科目"
+
+msgid "onboarding.classNamePlaceholder"
+msgstr "例如 高一A班"
+
+msgid "onboarding.studentCountPlaceholder"
+msgstr "学生人数"
+
+msgid "onboarding.students"
+msgstr "名学生"
+
+msgid "onboarding.readyToGenerate"
+msgstr "准备根据您的数据生成每周课程表。"
+
+msgid "onboarding.subjectsCount"
+msgstr "个科目"
+
+msgid "onboarding.teachersCount"
+msgstr "位教师"
+
+msgid "onboarding.classesCount"
+msgstr "个班级"
+
+msgid "onboarding.generateBtn"
+msgstr "生成课程表"
+
+msgid "onboarding.conflictsFound"
+msgstr "检测到{{count}}个冲突！"
+
+msgid "onboarding.scheduleGenerated"
+msgstr "课程表生成成功！"
+
+msgid "onboarding.finish"
+msgstr "完成设置"
+
+msgid "onboarding.mon"
+msgstr "周一"
+
+msgid "onboarding.tue"
+msgstr "周二"
+
+msgid "onboarding.wed"
+msgstr "周三"
+
+msgid "onboarding.thu"
+msgstr "周四"
+
+msgid "onboarding.fri"
+msgstr "周五"
+
+msgid "schedule.title"
+msgstr "课程表管理"
+
+msgid "schedule.subtitle"
+msgstr "查看和管理每周课程表"
+
+msgid "schedule.selectClass"
+msgstr "选择班级"
+
+msgid "schedule.regenerate"
+msgstr "重新生成"
+
+msgid "schedule.weeklyGrid"
+msgstr "每周课程表"
+
+msgid "schedule.noSchedule"
+msgstr "尚未生成课程表。请前往学校设置。"
+
+msgid "schedule.period"
+msgstr "课时"
+
+msgid "schedule.lunch"
+msgstr "午餐"
+
+msgid "schedule.conflict"
+msgstr "冲突"
+
+msgid "distribution.title"
+msgstr "学生分配"
+
+msgid "distribution.subtitle"
+msgstr "将学生分配到班级"
+
+msgid "distribution.classes"
+msgstr "班级"
+
+msgid "distribution.selectClass"
+msgstr "选择班级"
+
+msgid "distribution.noClasses"
+msgstr "尚未创建班级。"
+
+msgid "distribution.studentNamePlaceholder"
+msgstr "学生姓名"
+
+msgid "distribution.noStudents"
+msgstr "尚未分配学生。"
+
+msgid "distribution.selectClassPrompt"
+msgstr "从左侧选择一个班级来管理学生。"
+
+msgid "studentSchedule.title"
+msgstr "我的课程表"
+
+msgid "studentSchedule.classLabel"
+msgstr "班级"
+
+msgid "studentSchedule.noClass"
+msgstr "未分配班级"
+
+msgid "studentSchedule.weeklyView"
+msgstr "每周课程表"
+
+msgid "studentSchedule.noSchedule"
+msgstr "课程表暂不可用。"
+
+msgid "studentCourses.title"
+msgstr "我的课程"
+
+msgid "studentCourses.subtitle"
+msgstr "您分配的科目和教师"
+
+msgid "studentCourses.noCourses"
+msgstr "暂无可用课程。"
+
+msgid "studentCourses.noTeacher"
+msgstr "未分配教师"
+
+msgid "landing.badge"
+msgstr "全球500+学校信赖之选"
+
+msgid "landing.heroTitle1"
+msgstr "SmartSchool AI：统一平台，服务于"
+
+msgid "landing.heroTitle2"
+msgstr "校园生活"
+
+msgid "landing.heroTitle3"
+msgstr "与"
+
+msgid "landing.heroTitle4"
+msgstr "招生管理"
+
+msgid "landing.heroSubtitle"
+msgstr "用一个为现代学校设计的智能生态系统，取代分散的WhatsApp群组、零散的电子表格和手动排课。"
+
+msgid "landing.seeHow"
+msgstr "了解详情"
+
+msgid "landing.freeTrial"
+msgstr "30天免费试用"
+
+msgid "landing.noCard"
+msgstr "无需信用卡"
+
+msgid "landing.setupTime"
+msgstr "10分钟完成设置"
+
+msgid "landing.problemTitle"
+msgstr "我们解决的问题"
+
+msgid "landing.problemSubtitle"
+msgstr "学校依赖的分散工具浪费时间和丢失数据。SmartSchool AI将一切整合在一起。"
+
+msgid "landing.problem"
+msgstr "问题"
+
+msgid "landing.solution"
+msgstr "解决方案"
+
+msgid "landing.featuresTitle"
+msgstr "学校所需的一切"
+
+msgid "landing.featuresSubtitle"
+msgstr "专为K-12学校管理设计的全面工具套件。"
+
+msgid "landing.schedulerTitle"
+msgstr "自动排课与冲突检测"
+
+msgid "landing.schedulerSubtitle"
+msgstr "我们的AI生成最优课表，并提前发现冲突。"
+
+msgid "landing.schedulerLabel"
+msgstr "自动生成"
+
+msgid "landing.roomConflict"
+msgstr "教室冲突"
+
+msgid "landing.pricingTitle"
+msgstr "简单透明的价格"
+
+msgid "landing.pricingSubtitle"
+msgstr "选择适合您机构需求的方案。"
+
+msgid "landing.mostPopular"
+msgstr "最受欢迎"
+
+msgid "landing.startTrial"
+msgstr "开始免费试用"
+
+msgid "landing.contactSales"
+msgstr "联系销售"
+
+msgid "landing.testimonialsTitle"
+msgstr "教育工作者的信赖"
+
+msgid "landing.ctaTitle"
+msgstr "准备好改变您的学校了吗？"
+
+msgid "landing.ctaSubtitle"
+msgstr "加入已经使用SmartSchool AI的500多所学校。"
+
+msgid "landing.copyright"
+msgstr "© 2026 SmartSchool AI。保留所有权利。"
+
+msgid "landing.mondaySchedule"
+msgstr "周一课表 — 12-A班"
+
+msgid "pricing.basic.name"
+msgstr "基础版"
+
+msgid "pricing.basic.price"
+msgstr "$299"
+
+msgid "pricing.basic.period"
+msgstr "/月"
+
+msgid "pricing.basic.desc"
+msgstr "适用于200名学生以下的小型学校"
+
+msgid "pricing.pro.name"
+msgstr "专业版"
+
+msgid "pricing.pro.price"
+msgstr "$799"
+
+msgid "pricing.pro.period"
+msgstr "/月"
+
+msgid "pricing.pro.desc"
+msgstr "适用于1000名学生以下的成长型学校"
+
+msgid "pricing.institutional.name"
+msgstr "机构版"
+
+msgid "pricing.institutional.price"
+msgstr "定制"
+
+msgid "pricing.institutional.period"
+msgstr ""
+
+msgid "pricing.institutional.desc"
+msgstr "适用于学区和大型机构"
+
+msgid "pricing.features.dashboardAnalytics"
+msgstr "仪表盘与分析"
+
+msgid "pricing.features.attendanceModule"
+msgstr "考勤模块"
+
+msgid "pricing.features.communicationHub"
+msgstr "通讯中心"
+
+msgid "pricing.features.adminAccounts5"
+msgstr "5个管理员账户"
+
+msgid "pricing.features.emailSupport"
+msgstr "邮件支持"
+
+msgid "pricing.features.everythingBasic"
+msgstr "基础版全部功能"
+
+msgid "pricing.features.collegePrepHub"
+msgstr "升学准备中心"
+
+msgid "pricing.features.aiEssayFeedback"
+msgstr "AI作文分析"
+
+msgid "pricing.features.autoScheduler"
+msgstr "自动排课"
+
+msgid "pricing.features.prioritySupport"
+msgstr "优先支持"
+
+msgid "pricing.features.apiAccess"
+msgstr "API访问"
+
+msgid "pricing.features.everythingPro"
+msgstr "专业版全部功能"
+
+msgid "pricing.features.unlimitedStudents"
+msgstr "无限学生"
+
+msgid "pricing.features.alumniNetwork"
+msgstr "校友网络"
+
+msgid "pricing.features.customIntegrations"
+msgstr "自定义集成"
+
+msgid "pricing.features.dedicatedManager"
+msgstr "专属客户经理"
+
+msgid "pricing.features.slaGuarantee"
+msgstr "SLA保障"
+
+msgid "pricing.features.onPremise"
+msgstr "本地部署选项"
+
+msgid "problems.fragmented"
+msgstr "碎片化沟通"
+
+msgid "problems.fragmentedSolution"
+msgstr "一个统一平台处理所有学校通讯"
+
+msgid "problems.manual"
+msgstr "手动排课"
+
+msgid "problems.manualSolution"
+msgstr "AI排课器自动解决冲突"
+
+msgid "problems.disconnected"
+msgstr "数据孤岛"
+
+msgid "problems.disconnectedSolution"
+msgstr "跨模块集中分析"
+
+msgid "problems.paper"
+msgstr "纸质流程"
+
+msgid "problems.paperSolution"
+msgstr "从考勤到招生的数字化工作流"
+
+msgid "features.autoScheduler"
+msgstr "自动排课"
+
+msgid "features.autoSchedulerDesc"
+msgstr "AI驱动的课表生成，实时冲突检测"
+
+msgid "features.perfAnalytics"
+msgstr "成绩分析"
+
+msgid "features.perfAnalyticsDesc"
+msgstr "通过交互式仪表盘跟踪学生进度和成绩趋势"
+
+msgid "features.unifiedComm"
+msgstr "统一通讯"
+
+msgid "features.unifiedCommDesc"
+msgstr "用有组织的班级频道取代分散的WhatsApp群组"
+
+msgid "features.faceIdAttendance"
+msgstr "Face ID考勤"
+
+msgid "features.faceIdAttendanceDesc"
+msgstr "生物识别考勤记录，即时通知家长"
+
+msgid "features.collegePrepHub"
+msgstr "升学准备中心"
+
+msgid "features.collegePrepHubDesc"
+msgstr "AI作文分析、作品集管理和推荐信跟踪"
+
+msgid "features.smartAlerts"
+msgstr "智能提醒"
+
+msgid "features.smartAlertsDesc"
+msgstr "教师超负荷预警、截止日期提醒和招生洞察"
+
+msgid "dashboard.title"
+msgstr "仪表盘"
+
+msgid "dashboard.welcome"
+msgstr "欢迎回来！这是您的概览。"
+
+msgid "dashboard.students"
+msgstr "学生"
+
+msgid "dashboard.avgGpa"
+msgstr "平均GPA"
+
+msgid "dashboard.attendance"
+msgstr "考勤"
+
+msgid "dashboard.courses"
+msgstr "课程"
+
+msgid "dashboard.performanceAnalytics"
+msgstr "成绩分析"
+
+msgid "dashboard.gradeTrends"
+msgstr "成绩趋势"
+
+msgid "dashboard.deadlineCalendar"
+msgstr "截止日期日历"
+
+msgid "dashboard.upcomingDueDates"
+msgstr "即将到期"
+
+msgid "dashboard.targetGradeCalc"
+msgstr "目标成绩计算器"
+
+msgid "dashboard.setGoals"
+msgstr "设定目标并跟踪进度"
+
+msgid "dashboard.ofTarget"
+msgstr "目标完成度"
+
+msgid "dashboard.math"
+msgstr "数学"
+
+msgid "dashboard.science"
+msgstr "科学"
+
+msgid "dashboard.english"
+msgstr "英语"
+
+msgid "dashboard.mathematics"
+msgstr "数学"
+
+msgid "dashboard.assignment"
+msgstr "作业"
+
+msgid "dashboard.project"
+msgstr "项目"
+
+msgid "dashboard.essay"
+msgstr "论文"
+
+msgid "dashboard.exam"
+msgstr "考试"
+
+msgid "dashboard.portfolio"
+msgstr "作品集"
+
+msgid "attendance.title"
+msgstr "考勤"
+
+msgid "attendance.subtitle"
+msgstr "Face ID验证的考勤记录"
+
+msgid "attendance.present"
+msgstr "出勤"
+
+msgid "attendance.late"
+msgstr "迟到"
+
+msgid "attendance.absent"
+msgstr "缺勤"
+
+msgid "attendance.all"
+msgstr "全部"
+
+msgid "attendance.studentGrid"
+msgstr "学生考勤表"
+
+msgid "collegePrep.title"
+msgstr "升学准备中心"
+
+msgid "collegePrep.subtitle"
+msgstr "论文写作、AI分析和作品集管理"
+
+msgid "collegePrep.essayWriting"
+msgstr "论文写作"
+
+msgid "collegePrep.commonApp"
+msgstr "Common App个人陈述"
+
+msgid "collegePrep.startWriting"
+msgstr "开始写作..."
+
+msgid "collegePrep.words"
+msgstr "字"
+
+msgid "collegePrep.saveDraft"
+msgstr "保存草稿"
+
+msgid "collegePrep.submitReview"
+msgstr "提交审核"
+
+msgid "collegePrep.aiFeedback"
+msgstr "AI分析"
+
+msgid "collegePrep.realTimeAnalysis"
+msgstr "实时分析"
+
+msgid "collegePrep.strength"
+msgstr "优点"
+
+msgid "collegePrep.improvement"
+msgstr "改进"
+
+msgid "collegePrep.tip"
+msgstr "提示"
+
+msgid "collegePrep.portfolioStorage"
+msgstr "作品集存储"
+
+msgid "collegePrep.certsAwards"
+msgstr "证书与奖项"
+
+msgid "collegePrep.uploadCert"
+msgstr "上传证书"
+
+msgid "collegePrep.certificate"
+msgstr "证书"
+
+msgid "collegePrep.award"
+msgstr "奖项"
+
+msgid "collegePrep.featuredEssay"
+msgstr "精选论文"
+
+msgid "alumni.title"
+msgstr "荣誉殿堂"
+
+msgid "alumni.subtitle"
+msgstr "庆祝我们杰出的校友"
+
+msgid "alumni.readEssay"
+msgstr "阅读论文"
+
+msgid "alumni.profile"
+msgstr "个人资料"
+
+msgid "alumni.featuredEssay"
+msgstr "精选论文"
+
+msgid "communication.title"
+msgstr "通讯"
+
+msgid "communication.subtitle"
+msgstr "与班级、老师和项目团队聊天"
+
+msgid "communication.channels"
+msgstr "频道"
+
+msgid "communication.schoolChannels"
+msgstr "学校频道"
+
+msgid "communication.directMessages"
+msgstr "私信"
+
+msgid "communication.typeMessage"
+msgstr "输入消息..."
+
+msgid "communication.messageTeacher"
+msgstr "给老师发消息"
+
+msgid "communication.noMessages"
+msgstr "暂无消息。开始对话吧！"
+
+msgid "communication.edited"
+msgstr "已编辑"
+
+msgid "communication.dropFiles"
+msgstr "将文件拖放到此处"
+
+msgid "admissions.title"
+msgstr "招生中心"
+
+msgid "admissions.subtitle"
+msgstr "跟踪申请、成绩和文件"
+
+msgid "admissions.exams"
+msgstr "考试"
+
+msgid "admissions.collegeList"
+msgstr "大学列表"
+
+msgid "admissions.activities"
+msgstr "活动"
+
+msgid "admissions.essays"
+msgstr "论文"
+
+msgid "admissions.documents"
+msgstr "文件"
+
+msgid "admissions.examTracker"
+msgstr "SAT / IELTS / 外部考试"
+
+msgid "admissions.examTrackerSub"
+msgstr "目标分数与当前最佳"
+
+msgid "admissions.examName"
+msgstr "考试名称"
+
+msgid "admissions.targetScore"
+msgstr "目标分数"
+
+msgid "admissions.currentBest"
+msgstr "当前最佳"
+
+msgid "admissions.testDate"
+msgstr "考试日期"
+
+msgid "admissions.status"
+msgstr "状态"
+
+msgid "admissions.registered"
+msgstr "已注册"
+
+msgid "admissions.completed"
+msgstr "已完成"
+
+msgid "admissions.upcoming"
+msgstr "即将到来"
+
+msgid "admissions.uploadScoreReport"
+msgstr "上传成绩报告 (PDF/JPG)"
+
+msgid "admissions.add"
+msgstr "添加"
+
+msgid "admissions.collegeTracker"
+msgstr "申请跟踪器"
+
+msgid "admissions.collegeTrackerSub"
+msgstr "按冲刺、匹配和保底分类"
+
+msgid "admissions.reach"
+msgstr "冲刺（理想）"
+
+msgid "admissions.match"
+msgstr "匹配（现实）"
+
+msgid "admissions.safety"
+msgstr "保底"
+
+msgid "admissions.deadline"
+msgstr "截止日期"
+
+msgid "admissions.notStarted"
+msgstr "未开始"
+
+msgid "admissions.inProgress"
+msgstr "进行中"
+
+msgid "admissions.submitted"
+msgstr "已提交"
+
+msgid "admissions.universityName"
+msgstr "大学名称"
+
+msgid "admissions.portalUrl"
+msgstr "门户网址"
+
+msgid "admissions.activityList"
+msgstr "课外活动"
+
+msgid "admissions.activityListSub"
+msgstr "最多10项活动"
+
+msgid "admissions.role"
+msgstr "角色"
+
+msgid "admissions.organization"
+msgstr "组织"
+
+msgid "admissions.description"
+msgstr "描述"
+
+msgid "admissions.hrsWeek"
+msgstr "小时/周"
+
+msgid "admissions.cert"
+msgstr "证书"
+
+msgid "admissions.activitiesUsed"
+msgstr "项活动"
+
+msgid "admissions.personalStatement"
+msgstr "个人陈述"
+
+msgid "admissions.draftEditor"
+msgstr "带版本历史的编辑器"
+
+msgid "admissions.startWriting"
+msgstr "开始写文章..."
+
+msgid "admissions.words"
+msgstr "字"
+
+msgid "admissions.saveVersion"
+msgstr "保存版本"
+
+msgid "admissions.versionHistory"
+msgstr "版本历史"
+
+msgid "admissions.counselorFeedback"
+msgstr "辅导员反馈"
+
+msgid "admissions.leaveFeedback"
+msgstr "给学生留反馈"
+
+msgid "admissions.readOnly"
+msgstr "只读"
+
+msgid "admissions.writeFeedback"
+msgstr "在此写反馈..."
+
+msgid "admissions.noFeedbackYet"
+msgstr "暂无反馈"
+
+msgid "admissions.adminFeedbackNote"
+msgstr "学生可见（只读）。"
+
+msgid "admissions.adminOnly"
+msgstr "仅管理员"
+
+msgid "admissions.vault"
+msgstr "文件保险库"
+
+msgid "admissions.vaultSub"
+msgstr "成绩单、推荐信和荣誉"
+
+msgid "admissions.uploadDocument"
+msgstr "上传文件"
+
+msgid "services.title"
+msgstr "在线餐厅"
+
+msgid "services.subtitle"
+msgstr "预订今天的餐食"
+
+msgid "services.items"
+msgstr "项"
+
+msgid "services.preOrder"
+msgstr "预订"
+
+msgid "services.addedToOrder"
+msgstr "已加入订单！"
+
+msgid "admin.title"
+msgstr "管理控制面板"
+
+msgid "admin.subtitle"
+msgstr "校长和管理员的学校概览"
+
+msgid "admin.totalStudents"
+msgstr "学生总数"
+
+msgid "admin.avgAttendance"
+msgstr "平均出勤率"
+
+msgid "admin.pendingReports"
+msgstr "待处理报告"
+
+msgid "admin.teacherHoursAvg"
+msgstr "教师平均课时"
+
+msgid "admin.weeklyReport"
+msgstr "周报"
+
+msgid "admin.weeklyReportSub"
+msgstr "本周出勤与提交情况"
+
+msgid "admin.teacherWorkload"
+msgstr "教师工作量预警"
+
+msgid "admin.weeklyHours"
+msgstr "每周教学时数"
+
+msgid "admin.admissionAnalytics"
+msgstr "招生成功分析"
+
+msgid "admin.admissionSub"
+msgstr "随时间变化的申请漏斗"
+
+msgid "admin.admissionBreakdown"
+msgstr "招生分布"
+
+msgid "admin.currentCycle"
+msgstr "当前周期"
+
+msgid "admin.accepted"
+msgstr "已录取"
+
+msgid "admin.waitlisted"
+msgstr "候补"
+
+msgid "admin.rejected"
+msgstr "未录取"
+
+msgid "admin.overloaded"
+msgstr "超负荷"
+
+msgid "admin.high"
+msgstr "偏高"
+
+msgid "admin.normal"
+msgstr "正常"
+
+msgid "admin.applications"
+msgstr "申请"
+
+msgid "admin.enrolled"
+msgstr "已入学"
+
+msgid "register.title"
+msgstr "注册学校"
+
+msgid "register.subtitle"
+msgstr "几步即可开始"
+
+msgid "register.schoolInfo"
+msgstr "学校信息"
+
+msgid "register.adminAccount"
+msgstr "管理员账户"
+
+msgid "register.configuration"
+msgstr "配置"
+
+msgid "register.complete"
+msgstr "完成"
+
+msgid "register.schoolName"
+msgstr "学校名称"
+
+msgid "register.schoolNamePlaceholder"
+msgstr "如：林肯学院"
+
+msgid "register.district"
+msgstr "区域"
+
+msgid "register.districtPlaceholder"
+msgstr "如：阿拉木图地区"
+
+msgid "register.country"
+msgstr "国家"
+
+msgid "register.countryPlaceholder"
+msgstr "如：中国"
+
+msgid "register.studentCount"
+msgstr "学生人数"
+
+msgid "register.studentCountPlaceholder"
+msgstr "如：500"
+
+msgid "register.schoolInformation"
+msgstr "学校信息"
+
+msgid "register.administratorAccount"
+msgstr "管理员账户"
+
+msgid "register.fullName"
+msgstr "全名"
+
+msgid "register.fullNamePlaceholder"
+msgstr "如：张三"
+
+msgid "register.email"
+msgstr "邮箱"
+
+msgid "register.emailPlaceholder"
+msgstr "admin@school.edu"
+
+msgid "register.phone"
+msgstr "电话"
+
+msgid "register.phonePlaceholder"
+msgstr "+86 xxx xxxx xxxx"
+
+msgid "register.password"
+msgstr "密码"
+
+msgid "register.passwordPlaceholder"
+msgstr "创建一个强密码"
+
+msgid "register.chooseModules"
+msgstr "选择模块"
+
+msgid "register.modulesNote"
+msgstr "选择要激活的模块。您可以稍后更改。"
+
+msgid "register.registrationComplete"
+msgstr "注册完成！"
+
+msgid "register.registrationCompleteDesc"
+msgstr "您的学校已注册。现在可以访问管理面板。"
+
+msgid "register.goToAdmin"
+msgstr "前往管理面板"
+
+msgid "register.back"
+msgstr "返回"
+
+msgid "register.next"
+msgstr "下一步"
+
+msgid "register.completeRegistration"
+msgstr "完成注册"
+
+msgid "register.modules.dashboard"
+msgstr "仪表盘与分析"
+
+msgid "register.modules.attendance"
+msgstr "考勤模块"
+
+msgid "register.modules.collegePrep"
+msgstr "升学准备中心"
+
+msgid "register.modules.communication"
+msgstr "通讯"
+
+msgid "register.modules.services"
+msgstr "服务（餐厅）"
+
+msgid "register.modules.alumni"
+msgstr "校友网络"
+
+msgid "register.modules.scheduler"
+msgstr "自动排课"
+
+msgid "testimonials.t1"
+msgstr "SmartSchool AI将我们的行政工作量减少了60%。仅排课器每周就节省了15小时。"
+
+msgid "testimonials.t2"
+msgstr "统一通讯取代了12个不同的WhatsApp群组。家长们喜欢这种透明度。"
+
+msgid "testimonials.t3"
+msgstr "实施升学准备中心后，大学录取率提高了23%。"
+
+msgid "scheduler.subjects.mathematics"
+msgstr "数学"
+
+msgid "scheduler.subjects.physics"
+msgstr "物理"
+
+msgid "scheduler.subjects.english"
+msgstr "英语"
+
+msgid "scheduler.subjects.biology"
+msgstr "生物"
+
+msgid "scheduler.subjects.lunch"
+msgstr "午休"
+
+msgid "scheduler.subjects.history"
+msgstr "历史"
+
+msgid "gateway.userTitle"
+msgstr "登录门户"
+
+msgid "gateway.userDesc"
+msgstr "面向学生、家长和教师——查看成绩、课程表和升学准备。"
+
+msgid "gateway.userCta"
+msgstr "进入门户"
+
+msgid "gateway.businessTitle"
+msgstr "SmartSchool 商务版"
+
+msgid "gateway.businessDesc"
+msgstr "面向学校管理层。了解平台功能、自动排课、价格和系统集成。"
+
+msgid "gateway.businessCta"
+msgstr "探索平台"
+
+msgid "gateway.tags.grades"
+msgstr "成绩"
+
+msgid "gateway.tags.schedules"
+msgstr "课程表"
+
+msgid "gateway.tags.collegePrep"
+msgstr "升学准备"
+
+msgid "gateway.tags.buffet"
+msgstr "食堂"
+
+msgid "gateway.tags.analytics"
+msgstr "数据分析"
+
+msgid "gateway.tags.admin"
+msgstr "管理"
+
+msgid "gateway.tags.integration"
+msgstr "集成"
+
+msgid "gateway.tags.scheduler"
+msgstr "排课"
+
+msgid "tiles.todaySchedule"
+msgstr "今日课表"
+
+msgid "tiles.gradeAnalytics"
+msgstr "成绩分析"
+
+msgid "tiles.targetCalculator"
+msgstr "目标计算器"
+
+msgid "tiles.attendance"
+msgstr "考勤"
+
+msgid "tiles.schedule"
+msgstr "课表"
+
+msgid "tiles.deadlines"
+msgstr "截止日期"
+
+msgid "tiles.projectHub"
+msgstr "项目中心"
+
+msgid "tiles.projectHubDesc"
+msgstr "管理和跟踪您的团队项目。"
+
+msgid "tiles.essayEditor"
+msgstr "论文编辑器"
+
+msgid "tiles.aiFeedback"
+msgstr "AI反馈"
+
+msgid "tiles.portfolio"
+msgstr "作品集"
+
+msgid "tiles.onlineBuffet"
+msgstr "在线餐厅"
+
+msgid "tiles.announcements"
+msgstr "公告"
+
+msgid "tiles.payments"
+msgstr "缴费"
+
+msgid "tiles.paymentsDesc"
+msgstr "查看和管理缴费记录。"
+
+msgid "tiles.schoolChats"
+msgstr "校园聊天"
+
+msgid "tiles.groupEducation"
+msgstr "教育"
+
+msgid "tiles.groupPlanning"
+msgstr "计划"
+
+msgid "tiles.groupCollege"
+msgstr "大学准备"
+
+msgid "tiles.groupServices"
+msgstr "服务"
+
+msgid "tiles.groupCommunication"
+msgstr "沟通"
+
+msgid "tiles.groupTeacher"
+msgstr "教学"
+
+msgid "tiles.groupCounselor"
+msgstr "咨询"
+
+msgid "tiles.groupCurator"
+msgstr "监控"
+
+msgid "notifications.title"
+msgstr "通知"
+
+msgid "notifications.newGrade"
+msgstr "新成绩发布"
+
+msgid "notifications.newMessage"
+msgstr "新消息"
+
+msgid "notifications.deadlineAlert"
+msgstr "截止日期临近"
+
+msgid "bellSetup.title"
+msgstr "智能铃声设置"
+
+msgid "bellSetup.subtitle"
+msgstr "配置课时，系统将自动计算课间休息"
+
+msgid "bellSetup.configuration"
+msgstr "配置"
+
+msgid "bellSetup.totalPeriods"
+msgstr "每日课时数"
+
+msgid "bellSetup.lessonDuration"
+msgstr "课时时长（分钟）"
+
+msgid "bellSetup.startTime"
+msgstr "上课时间"
+
+msgid "bellSetup.endTime"
+msgstr "放学时间"
+
+msgid "bellSetup.calculate"
+msgstr "自动计算"
+
+msgid "bellSetup.calculated"
+msgstr "铃声时间表已计算！"
+
+msgid "bellSetup.insufficientTime"
+msgstr "时间不足以安排所有课时"
+
+msgid "bellSetup.generatedSchedule"
+msgstr "生成的时间表"
+
+msgid "bellSetup.period"
+msgstr "第课"
+
+msgid "bellSetup.breakTime"
+msgstr "课间"
+
+msgid "bellSetup.minutes"
+msgstr "分钟"
+
+msgid "bellSetup.save"
+msgstr "保存时间表"
+
+msgid "teacher.title"
+msgstr "教师面板"
+
+msgid "teacher.subtitle"
+msgstr "管理班级和考勤"
+
+msgid "teacher.currentLesson"
+msgstr "当前课程"
+
+msgid "teacher.myScheduleToday"
+msgstr "今日我的课表"
+
+msgid "teacher.now"
+msgstr "现在"
+
+msgid "teacher.attendanceFor"
+msgstr "考勤："
+
+msgid "teacher.prevPeriod"
+msgstr "上一节"
+
+msgid "teacher.present"
+msgstr "出勤"
+
+msgid "teacher.absent"
+msgstr "缺勤"
+
+msgid "teacher.late"
+msgstr "迟到"
+
+msgid "teacher.saveAttendance"
+msgstr "保存考勤"
+
+msgid "counselor.title"
+msgstr "顾问中心"
+
+msgid "counselor.subtitle"
+msgstr "管理成绩单、论文和学生活动"
+
+msgid "counselor.essayQueue"
+msgstr "论文队列"
+
+msgid "counselor.essayQueueDesc"
+msgstr "按先来先审的顺序审阅学生论文"
+
+msgid "counselor.transcripts"
+msgstr "成绩单"
+
+msgid "counselor.transcriptDesc"
+msgstr "生成官方成绩单和GPA报告"
+
+msgid "counselor.activityMonitor"
+msgstr "活动监控"
+
+msgid "counselor.activityDesc"
+msgstr "查看和批准学生课外活动"
+
+msgid "counselor.pending"
+msgstr "待审"
+
+msgid "counselor.reviewed"
+msgstr "已审"
+
+msgid "counselor.credits"
+msgstr "学分"
+
+msgid "counselor.generatePDF"
+msgstr "生成PDF"
+
+msgid "counselor.approved"
+msgstr "已批准"
+
+msgid "counselor.approve"
+msgstr "批准"
+
+msgid "counselor.grades"
+msgstr "成绩"
+
+msgid "curator.title"
+msgstr "巡视员视图"
+
+msgid "curator.subtitle"
+msgstr "搜索学生和检查班级位置"
+
+msgid "curator.searchPlaceholder"
+msgstr "按学生姓名或班级搜索..."
+
+msgid "curator.searchHint"
+msgstr "搜索学生或班级以查看其当前位置"
+
+msgid "curator.studentResults"
+msgstr "搜索结果"
+
+msgid "curator.classSchedule"
+msgstr "班级课表"
+
+msgid "curator.class"
+msgstr "班级"
+
+msgid "curator.scheduleSearch"
+msgstr "课表搜索"
+
+msgid "curator.readOnlyNote"
+msgstr "巡视员为只读模式。"
+
+msgid "crud.title"
+msgstr "资源管理"
+
+msgid "crud.subtitle"
+msgstr "管理学科、教师和教室"
+
+msgid "crud.subjects"
+msgstr "学科"
+
+msgid "crud.teachers"
+msgstr "教师"
+
+msgid "crud.rooms"
+msgstr "教室"
+
+msgid "crud.manageSubjects"
+msgstr "管理学科"
+
+msgid "crud.manageTeachers"
+msgstr "管理教师"
+
+msgid "crud.manageRooms"
+msgstr "管理教室"
+
+msgid "crud.subjectName"
+msgstr "学科名称"
+
+msgid "crud.teacherName"
+msgstr "教师姓名"
+
+msgid "crud.teacherEmail"
+msgstr "邮箱（可选）"
+
+msgid "crud.selectSubject"
+msgstr "选择学科"
+
+msgid "crud.roomName"
+msgstr "教室名称"
+
+msgid "crud.capacity"
+msgstr "容量"
+
+msgid "crud.added"
+msgstr "添加成功"
+
+msgid "crud.deleted"
+msgstr "删除成功"
+
+msgid "crud.error"
+msgstr "发生错误"
+
+msgid "crud.noItems"
+msgstr "暂无数据"
+
+msgid "vault.title"
+msgstr "文档库"
+
+msgid "vault.subtitle"
+msgstr "成绩单、推荐信、证书和奖项"
+
+msgid "vault.dragDrop"
+msgstr "拖放文件到此处（PDF、JPG）"
+
+msgid "vault.browse"
+msgstr "浏览文件"
+
+msgid "vault.uploaded"
+msgstr "文件已上传"
+
+msgid "vault.draft"
+msgstr "草稿"
+
+msgid "vault.verified"
+msgstr "已验证"
+
+msgid "vault.official"
+msgstr "正式"
+
+msgid "vault.noDocuments"
+msgstr "尚未上传文档"
+
+msgid "vault.versionHistory"
+msgstr "版本历史"
+
+msgid "vault.noVersions"
+msgstr "无版本记录"

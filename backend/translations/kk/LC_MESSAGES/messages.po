@@ -1,0 +1,1468 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: 1.0\n"
+"Report-Msgid-Bugs-To: you@example.com\n"
+"POT-Creation-Date: 2026-04-16 12:00+0000\n"
+"PO-Revision-Date: 2026-04-16 12:00+0000\n"
+"Last-Translator: you <you@example.com>\n"
+"Language-Team: Russian <yourteam@example.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid "nav.features"
+msgstr "Мүмкіндіктер"
+
+msgid "nav.scheduler"
+msgstr "Кесте"
+
+msgid "nav.pricing"
+msgstr "Тарифтер"
+
+msgid "nav.testimonials"
+msgstr "Пікірлер"
+
+msgid "nav.signIn"
+msgstr "Кіру"
+
+msgid "nav.registerSchool"
+msgstr "Мектепті тіркеу"
+
+msgid "sidebar.navigation"
+msgstr "Навигация"
+
+msgid "sidebar.administration"
+msgstr "Әкімшілік"
+
+msgid "sidebar.dashboard"
+msgstr "Басқару тақтасы"
+
+msgid "sidebar.attendance"
+msgstr "Қатысу"
+
+msgid "sidebar.collegePrep"
+msgstr "ЖОО-ға дайындық"
+
+msgid "sidebar.admissionsHub"
+msgstr "Түсу орталығы"
+
+msgid "sidebar.alumni"
+msgstr "Түлектер"
+
+msgid "sidebar.communication"
+msgstr "Байланыс"
+
+msgid "sidebar.services"
+msgstr "Қызметтер"
+
+msgid "sidebar.adminPanel"
+msgstr "Әкімші панелі"
+
+msgid "sidebar.onboarding"
+msgstr "Мектеп баптау"
+
+msgid "sidebar.schedule"
+msgstr "Кесте"
+
+msgid "sidebar.studentDistribution"
+msgstr "Оқушыларды бөлу"
+
+msgid "sidebar.mySchedule"
+msgstr "Менің кестем"
+
+msgid "sidebar.myCourses"
+msgstr "Менің пәндерім"
+
+msgid "sidebar.bellSetup"
+msgstr "Қоңырау баптаулары"
+
+msgid "sidebar.currentLesson"
+msgstr "Ағымдағы сабақ"
+
+msgid "sidebar.counselorHub"
+msgstr "Кеңесші кабинеті"
+
+msgid "sidebar.essayQueue"
+msgstr "Эссе кезегі"
+
+msgid "sidebar.curatorSearch"
+msgstr "Оқушы іздеу"
+
+msgid "sidebar.userManagement"
+msgstr "Пайдаланушыларды басқару"
+
+msgid "sidebar.resourceSetup"
+msgstr "Ресурстарды басқару"
+
+msgid "roles.admin"
+msgstr "Әкімші"
+
+msgid "roles.teacher"
+msgstr "Мұғалім"
+
+msgid "roles.student"
+msgstr "Оқушы"
+
+msgid "roles.counselor"
+msgstr "Кеңесші"
+
+msgid "roles.curator"
+msgstr "Куратор"
+
+msgid "onboarding.title"
+msgstr "Мектеп баптау шебері"
+
+msgid "onboarding.subtitle"
+msgstr "Мектепті 4 қарапайым қадаммен баптаңыз"
+
+msgid "onboarding.addSubjects"
+msgstr "Пәндер қосу"
+
+msgid "onboarding.registerTeachers"
+msgstr "Мұғалімдерді тіркеу"
+
+msgid "onboarding.createClasses"
+msgstr "Сыныптар құру"
+
+msgid "onboarding.generateSchedule"
+msgstr "Кесте жасау"
+
+msgid "onboarding.step0Desc"
+msgstr "Мектепте оқытылатын пәндерді қосыңыз"
+
+msgid "onboarding.step1Desc"
+msgstr "Мұғалімдерді тіркеп, пәндерін белгілеңіз"
+
+msgid "onboarding.step2Desc"
+msgstr "Сыныптар құрып, оқушылар санын көрсетіңіз"
+
+msgid "onboarding.step3Desc"
+msgstr "Оңтайландырылған апталық кесте жасаңыз"
+
+msgid "onboarding.subjectPlaceholder"
+msgstr "мыс. Математика"
+
+msgid "onboarding.teacherNamePlaceholder"
+msgstr "Мұғалім аты"
+
+msgid "onboarding.selectSubject"
+msgstr "Пән таңдаңыз"
+
+msgid "onboarding.classNamePlaceholder"
+msgstr "мыс. 10А"
+
+msgid "onboarding.studentCountPlaceholder"
+msgstr "Оқушылар"
+
+msgid "onboarding.students"
+msgstr "оқушы"
+
+msgid "onboarding.readyToGenerate"
+msgstr "Деректеріңіз бойынша апталық кесте жасауға дайын."
+
+msgid "onboarding.subjectsCount"
+msgstr "пән"
+
+msgid "onboarding.teachersCount"
+msgstr "мұғалім"
+
+msgid "onboarding.classesCount"
+msgstr "сынып"
+
+msgid "onboarding.generateBtn"
+msgstr "Кесте жасау"
+
+msgid "onboarding.conflictsFound"
+msgstr "{{count}} қақтығыс табылды!"
+
+msgid "onboarding.scheduleGenerated"
+msgstr "Кесте сәтті жасалды!"
+
+msgid "onboarding.finish"
+msgstr "Баптауды аяқтау"
+
+msgid "onboarding.mon"
+msgstr "Дс"
+
+msgid "onboarding.tue"
+msgstr "Сс"
+
+msgid "onboarding.wed"
+msgstr "Ср"
+
+msgid "onboarding.thu"
+msgstr "Бс"
+
+msgid "onboarding.fri"
+msgstr "Жм"
+
+msgid "schedule.title"
+msgstr "Кесте басқару"
+
+msgid "schedule.subtitle"
+msgstr "Апталық кестені қарау және басқару"
+
+msgid "schedule.selectClass"
+msgstr "Сынып таңдаңыз"
+
+msgid "schedule.regenerate"
+msgstr "Қайта жасау"
+
+msgid "schedule.weeklyGrid"
+msgstr "Апталық кесте"
+
+msgid "schedule.noSchedule"
+msgstr "Кесте әлі жасалмаған. Мектеп баптауға өтіңіз."
+
+msgid "schedule.period"
+msgstr "Сабақ"
+
+msgid "schedule.lunch"
+msgstr "Түскі ас"
+
+msgid "schedule.conflict"
+msgstr "Қақтығыс"
+
+msgid "distribution.title"
+msgstr "Оқушыларды бөлу"
+
+msgid "distribution.subtitle"
+msgstr "Оқушыларды сыныптарға бөліңіз"
+
+msgid "distribution.classes"
+msgstr "Сыныптар"
+
+msgid "distribution.selectClass"
+msgstr "Сынып таңдаңыз"
+
+msgid "distribution.noClasses"
+msgstr "Сыныптар әлі құрылмаған."
+
+msgid "distribution.studentNamePlaceholder"
+msgstr "Оқушы аты"
+
+msgid "distribution.noStudents"
+msgstr "Оқушылар әлі тағайындалмаған."
+
+msgid "distribution.selectClassPrompt"
+msgstr "Оқушыларды басқару үшін сол жақтан сынып таңдаңыз."
+
+msgid "studentSchedule.title"
+msgstr "Менің кестем"
+
+msgid "studentSchedule.classLabel"
+msgstr "Сынып"
+
+msgid "studentSchedule.noClass"
+msgstr "Сынып тағайындалмаған"
+
+msgid "studentSchedule.weeklyView"
+msgstr "Апталық кесте"
+
+msgid "studentSchedule.noSchedule"
+msgstr "Кесте әлі қолжетімді емес."
+
+msgid "studentCourses.title"
+msgstr "Менің пәндерім"
+
+msgid "studentCourses.subtitle"
+msgstr "Сіздің тағайындалған пәндеріңіз бен мұғалімдеріңіз"
+
+msgid "studentCourses.noCourses"
+msgstr "Пәндер әлі қолжетімді емес."
+
+msgid "studentCourses.noTeacher"
+msgstr "Мұғалім тағайындалмаған"
+
+msgid "landing.badge"
+msgstr "Әлем бойынша 500+ мектеп сенеді"
+
+msgid "landing.heroTitle1"
+msgstr "SmartSchool AI: Біріңғай платформа"
+
+msgid "landing.heroTitle2"
+msgstr "мектеп өмірі"
+
+msgid "landing.heroTitle3"
+msgstr "және"
+
+msgid "landing.heroTitle4"
+msgstr "қабылдау"
+
+msgid "landing.heroSubtitle"
+msgstr ""
+"WhatsApp топтарын, шашыраңқы кестелерді және қолмен жоспарлауды заманауи "
+"мектептерге арналған бір ақылды экожүйемен алмастырыңыз."
+
+msgid "landing.seeHow"
+msgstr "Қалай жұмыс істейді"
+
+msgid "landing.freeTrial"
+msgstr "30 күндік тегін сынақ"
+
+msgid "landing.noCard"
+msgstr "Банк картасы қажет емес"
+
+msgid "landing.setupTime"
+msgstr "10 минутта баптау"
+
+msgid "landing.problemTitle"
+msgstr "Біз шешетін мәселелер"
+
+msgid "landing.problemSubtitle"
+msgstr ""
+"Мектептер уақыт пен деректерді жоғалтатын бөлек құралдарды пайдаланады. "
+"SmartSchool AI бәрін біріктіреді."
+
+msgid "landing.problem"
+msgstr "Мәселе"
+
+msgid "landing.solution"
+msgstr "Шешім"
+
+msgid "landing.featuresTitle"
+msgstr "Мектепке қажет барлығы"
+
+msgid "landing.featuresSubtitle"
+msgstr "K-12 басқару үшін арнайы жасалған кешенді құралдар."
+
+msgid "landing.schedulerTitle"
+msgstr "Қақтығысты анықтайтын автоматты кесте"
+
+msgid "landing.schedulerSubtitle"
+msgstr "Біздің ЖИ оңтайлы кестелер жасап, қақтығыстарды алдын ала көрсетеді."
+
+msgid "landing.schedulerLabel"
+msgstr "Автоматты"
+
+msgid "landing.roomConflict"
+msgstr "Кабинет қақтығысы"
+
+msgid "landing.pricingTitle"
+msgstr "Қарапайым және ашық тарифтер"
+
+msgid "landing.pricingSubtitle"
+msgstr "Мекемеңізге сәйкес жоспарды таңдаңыз."
+
+msgid "landing.mostPopular"
+msgstr "Ең танымал"
+
+msgid "landing.startTrial"
+msgstr "Тегін сынақ бастау"
+
+msgid "landing.contactSales"
+msgstr "Сату бөліміне хабарласу"
+
+msgid "landing.testimonialsTitle"
+msgstr "Педагогтар сенеді"
+
+msgid "landing.ctaTitle"
+msgstr "Мектебіңізді өзгертуге дайынсыз ба?"
+
+msgid "landing.ctaSubtitle"
+msgstr "SmartSchool AI пайдаланып жатқан 500+ мектепке қосылыңыз."
+
+msgid "landing.copyright"
+msgstr "© 2026 SmartSchool AI. Барлық құқықтар қорғалған."
+
+msgid "landing.mondaySchedule"
+msgstr "Дүйсенбі кестесі — 12-А сынып"
+
+msgid "pricing.basic.name"
+msgstr "Базалық"
+
+msgid "pricing.basic.price"
+msgstr "$299"
+
+msgid "pricing.basic.period"
+msgstr "/ай"
+
+msgid "pricing.basic.desc"
+msgstr "200 оқушыға дейінгі шағын мектептер үшін"
+
+msgid "pricing.pro.name"
+msgstr "Про"
+
+msgid "pricing.pro.price"
+msgstr "$799"
+
+msgid "pricing.pro.period"
+msgstr "/ай"
+
+msgid "pricing.pro.desc"
+msgstr "1000 оқушыға дейінгі өсіп келе жатқан мектептер үшін"
+
+msgid "pricing.institutional.name"
+msgstr "Институционалдық"
+
+msgid "pricing.institutional.price"
+msgstr "Жеке"
+
+msgid "pricing.institutional.period"
+msgstr ""
+
+msgid "pricing.institutional.desc"
+msgstr "Мектеп округтері мен ірі мекемелер үшін"
+
+msgid "pricing.features.dashboardAnalytics"
+msgstr "Басқару тақтасы мен аналитика"
+
+msgid "pricing.features.attendanceModule"
+msgstr "Қатысу модулі"
+
+msgid "pricing.features.communicationHub"
+msgstr "Байланыс орталығы"
+
+msgid "pricing.features.adminAccounts5"
+msgstr "5 әкімші аккаунты"
+
+msgid "pricing.features.emailSupport"
+msgstr "Email қолдау"
+
+msgid "pricing.features.everythingBasic"
+msgstr "Базалықтағы бәрі"
+
+msgid "pricing.features.collegePrepHub"
+msgstr "ЖОО дайындық орталығы"
+
+msgid "pricing.features.aiEssayFeedback"
+msgstr "ЖИ эссе талдауы"
+
+msgid "pricing.features.autoScheduler"
+msgstr "Автоматты кесте"
+
+msgid "pricing.features.prioritySupport"
+msgstr "Басымдықты қолдау"
+
+msgid "pricing.features.apiAccess"
+msgstr "API қолжетімділік"
+
+msgid "pricing.features.everythingPro"
+msgstr "Продағы бәрі"
+
+msgid "pricing.features.unlimitedStudents"
+msgstr "Шексіз оқушылар"
+
+msgid "pricing.features.alumniNetwork"
+msgstr "Түлектер желісі"
+
+msgid "pricing.features.customIntegrations"
+msgstr "Реттелетін интеграциялар"
+
+msgid "pricing.features.dedicatedManager"
+msgstr "Жеке менеджер"
+
+msgid "pricing.features.slaGuarantee"
+msgstr "SLA кепілдігі"
+
+msgid "pricing.features.onPremise"
+msgstr "Жергілікті орнату"
+
+msgid "problems.fragmented"
+msgstr "Шашыраңқы байланыс"
+
+msgid "problems.fragmentedSolution"
+msgstr "Барлық мектеп хабарламалары үшін бір платформа"
+
+msgid "problems.manual"
+msgstr "Қолмен кесте жасау"
+
+msgid "problems.manualSolution"
+msgstr "Автоматты қақтығыс шешімі бар ЖИ жоспарлаушы"
+
+msgid "problems.disconnected"
+msgstr "Бөлінген деректер"
+
+msgid "problems.disconnectedSolution"
+msgstr "Барлық модульдер бойынша орталықтандырылған аналитика"
+
+msgid "problems.paper"
+msgstr "Қағаз негізіндегі процестер"
+
+msgid "problems.paperSolution"
+msgstr "Қатысудан бастап қабылдауға дейін цифрлық процестер"
+
+msgid "features.autoScheduler"
+msgstr "Автоматты кесте"
+
+msgid "features.autoSchedulerDesc"
+msgstr "Нақты уақыттағы қақтығысты анықтаумен ЖИ кесте жасау"
+
+msgid "features.perfAnalytics"
+msgstr "Үлгерім аналитикасы"
+
+msgid "features.perfAnalyticsDesc"
+msgstr "Интерактивті дашбордтармен оқушылардың үлгерімін бақылаңыз"
+
+msgid "features.unifiedComm"
+msgstr "Бірыңғай байланыс"
+
+msgid "features.unifiedCommDesc"
+msgstr "Шашыраңқы WhatsApp топтарын ұйымдастырылған арналармен алмастырыңыз"
+
+msgid "features.faceIdAttendance"
+msgstr "Face ID қатысу"
+
+msgid "features.faceIdAttendanceDesc"
+msgstr "Ата-аналарға хабарландыру жіберетін биометриялық қатысу"
+
+msgid "features.collegePrepHub"
+msgstr "ЖОО дайындық орталығы"
+
+msgid "features.collegePrepHubDesc"
+msgstr "ЖИ эссе талдауы, портфолио басқару және ұсыныс бақылау"
+
+msgid "features.smartAlerts"
+msgstr "Ақылды ескертулер"
+
+msgid "features.smartAlertsDesc"
+msgstr "Мұғалімдердің артық жүктемесі, мерзім еске салулары"
+
+msgid "dashboard.title"
+msgstr "Басқару тақтасы"
+
+msgid "dashboard.welcome"
+msgstr "Қош келдіңіз! Міне, сіздің шолуыңыз."
+
+msgid "dashboard.students"
+msgstr "Оқушылар"
+
+msgid "dashboard.avgGpa"
+msgstr "Орташа GPA"
+
+msgid "dashboard.attendance"
+msgstr "Қатысу"
+
+msgid "dashboard.courses"
+msgstr "Курстар"
+
+msgid "dashboard.performanceAnalytics"
+msgstr "Үлгерім аналитикасы"
+
+msgid "dashboard.gradeTrends"
+msgstr "Бағалар трендтері"
+
+msgid "dashboard.deadlineCalendar"
+msgstr "Дедлайн күнтізбесі"
+
+msgid "dashboard.upcomingDueDates"
+msgstr "Жақындаған мерзімдер"
+
+msgid "dashboard.targetGradeCalc"
+msgstr "Мақсатты баға калькуляторы"
+
+msgid "dashboard.setGoals"
+msgstr "Мақсаттарыңызды белгілеп, прогресті бақылаңыз"
+
+msgid "dashboard.ofTarget"
+msgstr "мақсаттан"
+
+msgid "dashboard.math"
+msgstr "Математика"
+
+msgid "dashboard.science"
+msgstr "Жаратылыстану"
+
+msgid "dashboard.english"
+msgstr "Ағылшын"
+
+msgid "dashboard.mathematics"
+msgstr "Математика"
+
+msgid "dashboard.assignment"
+msgstr "Тапсырма"
+
+msgid "dashboard.project"
+msgstr "Жоба"
+
+msgid "dashboard.essay"
+msgstr "Эссе"
+
+msgid "dashboard.exam"
+msgstr "Емтихан"
+
+msgid "dashboard.portfolio"
+msgstr "Портфолио"
+
+msgid "attendance.title"
+msgstr "Қатысу"
+
+msgid "attendance.subtitle"
+msgstr "Face ID арқылы тексерілген қатысу журналы"
+
+msgid "attendance.present"
+msgstr "Қатысты"
+
+msgid "attendance.late"
+msgstr "Кешікті"
+
+msgid "attendance.absent"
+msgstr "Келмеді"
+
+msgid "attendance.all"
+msgstr "Барлығы"
+
+msgid "attendance.studentGrid"
+msgstr "Оқушылар қатысу кестесі"
+
+msgid "collegePrep.title"
+msgstr "ЖОО-ға дайындық орталығы"
+
+msgid "collegePrep.subtitle"
+msgstr "Эссе жазу, ЖИ талдау және портфолио басқару"
+
+msgid "collegePrep.essayWriting"
+msgstr "Эссе жазу"
+
+msgid "collegePrep.commonApp"
+msgstr "Common App жеке мәлімдемесі"
+
+msgid "collegePrep.startWriting"
+msgstr "Эссе жазуды бастаңыз..."
+
+msgid "collegePrep.words"
+msgstr "сөз"
+
+msgid "collegePrep.saveDraft"
+msgstr "Жобаны сақтау"
+
+msgid "collegePrep.submitReview"
+msgstr "Тексеруге жіберу"
+
+msgid "collegePrep.aiFeedback"
+msgstr "ЖИ талдауы"
+
+msgid "collegePrep.realTimeAnalysis"
+msgstr "Нақты уақыттағы талдау"
+
+msgid "collegePrep.strength"
+msgstr "күшті жақ"
+
+msgid "collegePrep.improvement"
+msgstr "жақсарту"
+
+msgid "collegePrep.tip"
+msgstr "кеңес"
+
+msgid "collegePrep.portfolioStorage"
+msgstr "Портфолио қоймасы"
+
+msgid "collegePrep.certsAwards"
+msgstr "Сертификаттар мен марапаттар"
+
+msgid "collegePrep.uploadCert"
+msgstr "Сертификат жүктеу"
+
+msgid "collegePrep.certificate"
+msgstr "Сертификат"
+
+msgid "collegePrep.award"
+msgstr "Марапат"
+
+msgid "collegePrep.featuredEssay"
+msgstr "Таңдаулы эссе"
+
+msgid "alumni.title"
+msgstr "Даңқ залы"
+
+msgid "alumni.subtitle"
+msgstr "Біздің көрнекті түлектерімізді марапаттаймыз"
+
+msgid "alumni.readEssay"
+msgstr "Эссені оқу"
+
+msgid "alumni.profile"
+msgstr "Профиль"
+
+msgid "alumni.featuredEssay"
+msgstr "Таңдаулы эссе"
+
+msgid "communication.title"
+msgstr "Байланыс"
+
+msgid "communication.subtitle"
+msgstr "Сыныптармен, мұғалімдермен және жоба топтарымен чат"
+
+msgid "communication.channels"
+msgstr "Арналар"
+
+msgid "communication.schoolChannels"
+msgstr "Арналар"
+
+msgid "communication.directMessages"
+msgstr "Жеке хабарламалар"
+
+msgid "communication.typeMessage"
+msgstr "Хабарлама жазыңыз..."
+
+msgid "communication.messageTeacher"
+msgstr "Мұғалімге жазу"
+
+msgid "communication.noMessages"
+msgstr "Хабарламалар жоқ. Әңгімені бастаңыз!"
+
+msgid "communication.edited"
+msgstr "өзгертілген"
+
+msgid "communication.dropFiles"
+msgstr "Файлдарды мұнда сүйреңіз"
+
+msgid "admissions.title"
+msgstr "Түсу орталығы"
+
+msgid "admissions.subtitle"
+msgstr "Өтінімдерді, балдарды және құжаттарды қадағалаңыз"
+
+msgid "admissions.exams"
+msgstr "Емтихандар"
+
+msgid "admissions.collegeList"
+msgstr "ЖОО тізімі"
+
+msgid "admissions.activities"
+msgstr "Белсенділіктер"
+
+msgid "admissions.essays"
+msgstr "Эсселер"
+
+msgid "admissions.documents"
+msgstr "Құжаттар"
+
+msgid "admissions.examTracker"
+msgstr "SAT / IELTS / Сыртқы емтихандар"
+
+msgid "admissions.examTrackerSub"
+msgstr "Мақсатты және ағымдағы балл"
+
+msgid "admissions.examName"
+msgstr "Емтихан"
+
+msgid "admissions.targetScore"
+msgstr "Мақсатты балл"
+
+msgid "admissions.currentBest"
+msgstr "Ең жақсы нәтиже"
+
+msgid "admissions.testDate"
+msgstr "Тест күні"
+
+msgid "admissions.status"
+msgstr "Күйі"
+
+msgid "admissions.registered"
+msgstr "Тіркелген"
+
+msgid "admissions.completed"
+msgstr "Аяқталған"
+
+msgid "admissions.upcoming"
+msgstr "Алдағы"
+
+msgid "admissions.uploadScoreReport"
+msgstr "Балл есебін жүктеу (PDF/JPG)"
+
+msgid "admissions.add"
+msgstr "Қосу"
+
+msgid "admissions.collegeTracker"
+msgstr "Өтінім трекері"
+
+msgid "admissions.collegeTrackerSub"
+msgstr "Арман, Нақты, Қауіпсіз бойынша"
+
+msgid "admissions.reach"
+msgstr "Арман"
+
+msgid "admissions.match"
+msgstr "Нақты"
+
+msgid "admissions.safety"
+msgstr "Қауіпсіз"
+
+msgid "admissions.deadline"
+msgstr "Мерзімі"
+
+msgid "admissions.notStarted"
+msgstr "Басталмаған"
+
+msgid "admissions.inProgress"
+msgstr "Орындалуда"
+
+msgid "admissions.submitted"
+msgstr "Жіберілген"
+
+msgid "admissions.universityName"
+msgstr "ЖОО атауы"
+
+msgid "admissions.portalUrl"
+msgstr "Портал сілтемесі"
+
+msgid "admissions.activityList"
+msgstr "Сыныптан тыс белсенділіктер"
+
+msgid "admissions.activityListSub"
+msgstr "10 негізгі белсенділік"
+
+msgid "admissions.role"
+msgstr "Рөл"
+
+msgid "admissions.organization"
+msgstr "Ұйым"
+
+msgid "admissions.description"
+msgstr "Сипаттама"
+
+msgid "admissions.hrsWeek"
+msgstr "сағат/апта"
+
+msgid "admissions.cert"
+msgstr "Серт."
+
+msgid "admissions.activitiesUsed"
+msgstr "белсенділік"
+
+msgid "admissions.personalStatement"
+msgstr "Мотивациялық хат"
+
+msgid "admissions.draftEditor"
+msgstr "Нұсқа тарихымен редактор"
+
+msgid "admissions.startWriting"
+msgstr "Эссеңізді жаза бастаңыз..."
+
+msgid "admissions.words"
+msgstr "сөз"
+
+msgid "admissions.saveVersion"
+msgstr "Нұсқаны сақтау"
+
+msgid "admissions.versionHistory"
+msgstr "Нұсқа тарихы"
+
+msgid "admissions.counselorFeedback"
+msgstr "Кеңесшінің пікірі"
+
+msgid "admissions.leaveFeedback"
+msgstr "Оқушыға пікір жазыңыз"
+
+msgid "admissions.readOnly"
+msgstr "Тек оқу (кеңесшіден)"
+
+msgid "admissions.writeFeedback"
+msgstr "Пікіріңізді жазыңыз..."
+
+msgid "admissions.noFeedbackYet"
+msgstr "Пікір жоқ"
+
+msgid "admissions.adminFeedbackNote"
+msgstr "Сіздің пікіріңіз оқушыға көрінеді."
+
+msgid "admissions.adminOnly"
+msgstr "Тек әкімші"
+
+msgid "admissions.vault"
+msgstr "Құжат қоймасы"
+
+msgid "admissions.vaultSub"
+msgstr "Аттестаттар, ұсыныстар және марапаттар"
+
+msgid "admissions.uploadDocument"
+msgstr "Құжат жүктеу"
+
+msgid "services.title"
+msgstr "Онлайн-буфет"
+
+msgid "services.subtitle"
+msgstr "Бүгінге тағамдарды алдын ала тапсырыс беріңіз"
+
+msgid "services.items"
+msgstr "тағам"
+
+msgid "services.preOrder"
+msgstr "Алдын ала тапсырыс"
+
+msgid "services.addedToOrder"
+msgstr "тапсырысқа қосылды!"
+
+msgid "admin.title"
+msgstr "Әкімші басқару тақтасы"
+
+msgid "admin.subtitle"
+msgstr "Директорлар мен әкімшілерге арналған мектеп шолуы"
+
+msgid "admin.totalStudents"
+msgstr "Барлық оқушылар"
+
+msgid "admin.avgAttendance"
+msgstr "Орташа қатысу"
+
+msgid "admin.pendingReports"
+msgstr "Күтілетін есептер"
+
+msgid "admin.teacherHoursAvg"
+msgstr "Мұғалімдер сағаты орт."
+
+msgid "admin.weeklyReport"
+msgstr "Апталық есеп"
+
+msgid "admin.weeklyReportSub"
+msgstr "Осы аптадағы қатысу мен тапсырмалар"
+
+msgid "admin.teacherWorkload"
+msgstr "Мұғалімдер жүктемесі"
+
+msgid "admin.weeklyHours"
+msgstr "Апталық оқыту сағаттары"
+
+msgid "admin.admissionAnalytics"
+msgstr "Қабылдау аналитикасы"
+
+msgid "admin.admissionSub"
+msgstr "Уақыт бойынша өтінім воронкасы"
+
+msgid "admin.admissionBreakdown"
+msgstr "Қабылдау бөлінуі"
+
+msgid "admin.currentCycle"
+msgstr "Ағымдағы цикл"
+
+msgid "admin.accepted"
+msgstr "Қабылданды"
+
+msgid "admin.waitlisted"
+msgstr "Күту тізімінде"
+
+msgid "admin.rejected"
+msgstr "Қабылданбады"
+
+msgid "admin.overloaded"
+msgstr "артық жүктеме"
+
+msgid "admin.high"
+msgstr "жоғары"
+
+msgid "admin.normal"
+msgstr "қалыпты"
+
+msgid "admin.applications"
+msgstr "Өтінімдер"
+
+msgid "admin.enrolled"
+msgstr "Қабылданғандар"
+
+msgid "register.title"
+msgstr "Мектепті тіркеу"
+
+msgid "register.subtitle"
+msgstr "Бірнеше қадамда бастаңыз"
+
+msgid "register.schoolInfo"
+msgstr "Мектеп деректері"
+
+msgid "register.adminAccount"
+msgstr "Әкімші аккаунты"
+
+msgid "register.configuration"
+msgstr "Баптау"
+
+msgid "register.complete"
+msgstr "Аяқталды"
+
+msgid "register.schoolName"
+msgstr "Мектеп атауы"
+
+msgid "register.schoolNamePlaceholder"
+msgstr "мыс. Линкольн Академиясы"
+
+msgid "register.district"
+msgstr "Аудан / Аймақ"
+
+msgid "register.districtPlaceholder"
+msgstr "мыс. Алматы облысы"
+
+msgid "register.country"
+msgstr "Ел"
+
+msgid "register.countryPlaceholder"
+msgstr "мыс. Қазақстан"
+
+msgid "register.studentCount"
+msgstr "Оқушылар саны"
+
+msgid "register.studentCountPlaceholder"
+msgstr "мыс. 500"
+
+msgid "register.schoolInformation"
+msgstr "Мектеп туралы ақпарат"
+
+msgid "register.administratorAccount"
+msgstr "Әкімші аккаунты"
+
+msgid "register.fullName"
+msgstr "Толық аты-жөні"
+
+msgid "register.fullNamePlaceholder"
+msgstr "мыс. Иванов Иван"
+
+msgid "register.email"
+msgstr "Email"
+
+msgid "register.emailPlaceholder"
+msgstr "admin@school.edu"
+
+msgid "register.phone"
+msgstr "Телефон"
+
+msgid "register.phonePlaceholder"
+msgstr "+7 (xxx) xxx-xxxx"
+
+msgid "register.password"
+msgstr "Құпия сөз"
+
+msgid "register.passwordPlaceholder"
+msgstr "Күшті құпия сөз жасаңыз"
+
+msgid "register.chooseModules"
+msgstr "Модульдерді таңдаңыз"
+
+msgid "register.modulesNote"
+msgstr "Белсендіру үшін модульдерді таңдаңыз. Оларды кейін өзгерте аласыз."
+
+msgid "register.registrationComplete"
+msgstr "Тіркеу аяқталды!"
+
+msgid "register.registrationCompleteDesc"
+msgstr "Мектебіңіз тіркелді. Енді әкімші панеліне кіре аласыз."
+
+msgid "register.goToAdmin"
+msgstr "Әкімші панеліне өту"
+
+msgid "register.back"
+msgstr "Артқа"
+
+msgid "register.next"
+msgstr "Келесі"
+
+msgid "register.completeRegistration"
+msgstr "Тіркеуді аяқтау"
+
+msgid "register.modules.dashboard"
+msgstr "Басқару тақтасы мен аналитика"
+
+msgid "register.modules.attendance"
+msgstr "Қатысу модулі"
+
+msgid "register.modules.collegePrep"
+msgstr "ЖОО дайындық орталығы"
+
+msgid "register.modules.communication"
+msgstr "Байланыс"
+
+msgid "register.modules.services"
+msgstr "Қызметтер (Буфет)"
+
+msgid "register.modules.alumni"
+msgstr "Түлектер желісі"
+
+msgid "register.modules.scheduler"
+msgstr "Автоматты кесте"
+
+msgid "testimonials.t1"
+msgstr ""
+"SmartSchool AI біздің әкімшілік жүктемені 60%-ға азайтты. Тек жоспарлаушы "
+"аптасына 15 сағат үнемдеді."
+
+msgid "testimonials.t2"
+msgstr ""
+"Бірыңғай байланыс 12 түрлі WhatsApp тобын алмастырды. Ата-аналар ашықтықты "
+"жақсы көреді."
+
+msgid "testimonials.t3"
+msgstr ""
+"ЖОО дайындық орталығын енгізгеннен кейін қабылдау көрсеткіші 23%-ға өсті."
+
+msgid "scheduler.subjects.mathematics"
+msgstr "Математика"
+
+msgid "scheduler.subjects.physics"
+msgstr "Физика"
+
+msgid "scheduler.subjects.english"
+msgstr "Ағылшын"
+
+msgid "scheduler.subjects.biology"
+msgstr "Биология"
+
+msgid "scheduler.subjects.lunch"
+msgstr "Түскі үзіліс"
+
+msgid "scheduler.subjects.history"
+msgstr "Тарих"
+
+msgid "gateway.userTitle"
+msgstr "Порталға кіру"
+
+msgid "gateway.userDesc"
+msgstr ""
+"Оқушылар, ата-аналар мен мұғалімдер үшін — бағалар, кесте және жоғары оқу "
+"орнына дайындық."
+
+msgid "gateway.userCta"
+msgstr "Порталға өту"
+
+msgid "gateway.businessTitle"
+msgstr "SmartSchool бизнес үшін"
+
+msgid "gateway.businessDesc"
+msgstr ""
+"Мектеп әкімшілігі үшін. Платформа мүмкіндіктері, автоматты кесте, тарифтер "
+"мен интеграция."
+
+msgid "gateway.businessCta"
+msgstr "Платформаны зерттеу"
+
+msgid "gateway.tags.grades"
+msgstr "Бағалар"
+
+msgid "gateway.tags.schedules"
+msgstr "Кесте"
+
+msgid "gateway.tags.collegePrep"
+msgstr "ЖОО-ға дайындық"
+
+msgid "gateway.tags.buffet"
+msgstr "Буфет"
+
+msgid "gateway.tags.analytics"
+msgstr "Аналитика"
+
+msgid "gateway.tags.admin"
+msgstr "Әкімшілік"
+
+msgid "gateway.tags.integration"
+msgstr "Интеграция"
+
+msgid "gateway.tags.scheduler"
+msgstr "Кесте"
+
+msgid "tiles.todaySchedule"
+msgstr "Бүгінгі кесте"
+
+msgid "tiles.gradeAnalytics"
+msgstr "Баға талдауы"
+
+msgid "tiles.targetCalculator"
+msgstr "Мақсат калькуляторы"
+
+msgid "tiles.attendance"
+msgstr "Қатысу"
+
+msgid "tiles.schedule"
+msgstr "Кесте"
+
+msgid "tiles.deadlines"
+msgstr "Мерзімдер"
+
+msgid "tiles.projectHub"
+msgstr "Жоба орталығы"
+
+msgid "tiles.projectHubDesc"
+msgstr "Командалық жобаларыңызды басқарыңыз."
+
+msgid "tiles.essayEditor"
+msgstr "Эссе редакторы"
+
+msgid "tiles.aiFeedback"
+msgstr "ЖИ кері байланыс"
+
+msgid "tiles.portfolio"
+msgstr "Портфолио"
+
+msgid "tiles.onlineBuffet"
+msgstr "Онлайн буфет"
+
+msgid "tiles.announcements"
+msgstr "Хабарландырулар"
+
+msgid "tiles.payments"
+msgstr "Төлемдер"
+
+msgid "tiles.paymentsDesc"
+msgstr "Төлем тарихын қарау."
+
+msgid "tiles.schoolChats"
+msgstr "Мектеп чаттары"
+
+msgid "tiles.groupEducation"
+msgstr "Білім"
+
+msgid "tiles.groupPlanning"
+msgstr "Жоспарлау"
+
+msgid "tiles.groupCollege"
+msgstr "ЖОО-ға дайындық"
+
+msgid "tiles.groupServices"
+msgstr "Сервистер"
+
+msgid "tiles.groupCommunication"
+msgstr "Қарым-қатынас"
+
+msgid "tiles.groupTeacher"
+msgstr "Оқыту"
+
+msgid "tiles.groupCounselor"
+msgstr "Кеңес беру"
+
+msgid "tiles.groupCurator"
+msgstr "Бақылау"
+
+msgid "notifications.title"
+msgstr "Хабарламалар"
+
+msgid "notifications.newGrade"
+msgstr "Жаңа баға"
+
+msgid "notifications.newMessage"
+msgstr "Жаңа хабарлама"
+
+msgid "notifications.deadlineAlert"
+msgstr "Мерзім жақындап келеді"
+
+msgid "bellSetup.title"
+msgstr "Қоңырау баптаулары"
+
+msgid "bellSetup.subtitle"
+msgstr "Сабақтарды баптаңыз, жүйе үзілістерді автоматты есептейді"
+
+msgid "bellSetup.configuration"
+msgstr "Баптау"
+
+msgid "bellSetup.totalPeriods"
+msgstr "Күніне сабақ саны"
+
+msgid "bellSetup.lessonDuration"
+msgstr "Сабақ ұзақтығы (мин)"
+
+msgid "bellSetup.startTime"
+msgstr "Сабақ басталуы"
+
+msgid "bellSetup.endTime"
+msgstr "Сабақ аяқталуы"
+
+msgid "bellSetup.calculate"
+msgstr "Автоматты есептеу"
+
+msgid "bellSetup.calculated"
+msgstr "Қоңырау кестесі есептелді!"
+
+msgid "bellSetup.insufficientTime"
+msgstr "Барлық сабақтарға уақыт жеткіліксіз"
+
+msgid "bellSetup.generatedSchedule"
+msgstr "Жасалған кесте"
+
+msgid "bellSetup.period"
+msgstr "Сабақ"
+
+msgid "bellSetup.breakTime"
+msgstr "Үзіліс"
+
+msgid "bellSetup.minutes"
+msgstr "мин"
+
+msgid "bellSetup.save"
+msgstr "Кестені сақтау"
+
+msgid "teacher.title"
+msgstr "Мұғалім тақтасы"
+
+msgid "teacher.subtitle"
+msgstr "Сыныптар мен қатысуды басқару"
+
+msgid "teacher.currentLesson"
+msgstr "Ағымдағы сабақ"
+
+msgid "teacher.myScheduleToday"
+msgstr "Бүгінгі кестем"
+
+msgid "teacher.now"
+msgstr "ҚАЗІР"
+
+msgid "teacher.attendanceFor"
+msgstr "Қатысу тізімі"
+
+msgid "teacher.prevPeriod"
+msgstr "алдыңғы сабақ"
+
+msgid "teacher.present"
+msgstr "Қатысты"
+
+msgid "teacher.absent"
+msgstr "Қатыспады"
+
+msgid "teacher.late"
+msgstr "Кешікті"
+
+msgid "teacher.saveAttendance"
+msgstr "Қатысуды сақтау"
+
+msgid "counselor.title"
+msgstr "Кеңесші кабинеті"
+
+msgid "counselor.subtitle"
+msgstr "Құжаттар, эссе және оқушы белсенділігін басқару"
+
+msgid "counselor.essayQueue"
+msgstr "Эссе кезегі"
+
+msgid "counselor.essayQueueDesc"
+msgstr "Эсселерді келу ретімен тексеру"
+
+msgid "counselor.transcripts"
+msgstr "Транскрипттер"
+
+msgid "counselor.transcriptDesc"
+msgstr "Ресми транскрипттер мен GPA есептерін жасау"
+
+msgid "counselor.activityMonitor"
+msgstr "Белсенділік мониторы"
+
+msgid "counselor.activityDesc"
+msgstr "Оқушылардың сыныптан тыс белсенділігін қарау және бекіту"
+
+msgid "counselor.pending"
+msgstr "Күтуде"
+
+msgid "counselor.reviewed"
+msgstr "Тексерілді"
+
+msgid "counselor.credits"
+msgstr "кредит"
+
+msgid "counselor.generatePDF"
+msgstr "PDF жасау"
+
+msgid "counselor.approved"
+msgstr "Бекітілді"
+
+msgid "counselor.approve"
+msgstr "Бекіту"
+
+msgid "counselor.grades"
+msgstr "бағалар"
+
+msgid "curator.title"
+msgstr "Куратор тақтасы"
+
+msgid "curator.subtitle"
+msgstr "Оқушыларды іздеу және сынып орналасуын тексеру"
+
+msgid "curator.searchPlaceholder"
+msgstr "Оқушы аты немесе сынып бойынша іздеу..."
+
+msgid "curator.searchHint"
+msgstr "Оқушы немесе сыныпты іздеп, олардың қазіргі орнын біліңіз"
+
+msgid "curator.studentResults"
+msgstr "Іздеу нәтижелері"
+
+msgid "curator.classSchedule"
+msgstr "Сынып кестесі"
+
+msgid "curator.class"
+msgstr "Сынып"
+
+msgid "curator.scheduleSearch"
+msgstr "Кесте бойынша іздеу"
+
+msgid "curator.readOnlyNote"
+msgstr "Куратор тек қарау режимінде."
+
+msgid "crud.title"
+msgstr "Ресурстарды басқару"
+
+msgid "crud.subtitle"
+msgstr "Пәндерді, мұғалімдерді және кабинеттерді басқару"
+
+msgid "crud.subjects"
+msgstr "Пәндер"
+
+msgid "crud.teachers"
+msgstr "Мұғалімдер"
+
+msgid "crud.rooms"
+msgstr "Кабинеттер"
+
+msgid "crud.manageSubjects"
+msgstr "Пәндерді басқару"
+
+msgid "crud.manageTeachers"
+msgstr "Мұғалімдерді басқару"
+
+msgid "crud.manageRooms"
+msgstr "Кабинеттерді басқару"
+
+msgid "crud.subjectName"
+msgstr "Пән атауы"
+
+msgid "crud.teacherName"
+msgstr "Мұғалім аты"
+
+msgid "crud.teacherEmail"
+msgstr "Email (міндетті емес)"
+
+msgid "crud.selectSubject"
+msgstr "Пән таңдаңыз"
+
+msgid "crud.roomName"
+msgstr "Кабинет нөмірі"
+
+msgid "crud.capacity"
+msgstr "Сыйымдылық"
+
+msgid "crud.added"
+msgstr "Сәтті қосылды"
+
+msgid "crud.deleted"
+msgstr "Сәтті жойылды"
+
+msgid "crud.error"
+msgstr "Қате орын алды"
+
+msgid "crud.noItems"
+msgstr "Әзірше деректер жоқ"
+
+msgid "vault.title"
+msgstr "Құжат қоймасы"
+
+msgid "vault.subtitle"
+msgstr "Аттестаттар, ұсыныстар, сертификаттар және марапаттар"
+
+msgid "vault.dragDrop"
+msgstr "Файлдарды осында сүйреңіз (PDF, JPG)"
+
+msgid "vault.browse"
+msgstr "Файлдарды таңдау"
+
+msgid "vault.uploaded"
+msgstr "Файл(дар) жүктелді"
+
+msgid "vault.draft"
+msgstr "Жоба"
+
+msgid "vault.verified"
+msgstr "Тексерілген"
+
+msgid "vault.official"
+msgstr "Ресми"
+
+msgid "vault.noDocuments"
+msgstr "Құжаттар жүктелмеген"
+
+msgid "vault.versionHistory"
+msgstr "Нұсқалар тарихы"
+
+msgid "vault.noVersions"
+msgstr "Нұсқалар жоқ"

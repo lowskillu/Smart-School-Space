@@ -1,0 +1,1472 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: 1.0\n"
+"Report-Msgid-Bugs-To: you@example.com\n"
+"POT-Creation-Date: 2026-04-16 12:00+0000\n"
+"PO-Revision-Date: 2026-04-16 12:00+0000\n"
+"Last-Translator: you <you@example.com>\n"
+"Language-Team: Russian <yourteam@example.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid "nav.features"
+msgstr "Возможности"
+
+msgid "nav.scheduler"
+msgstr "Расписание"
+
+msgid "nav.pricing"
+msgstr "Тарифы"
+
+msgid "nav.testimonials"
+msgstr "Отзывы"
+
+msgid "nav.signIn"
+msgstr "Войти"
+
+msgid "nav.registerSchool"
+msgstr "Зарегистрировать школу"
+
+msgid "sidebar.navigation"
+msgstr "Навигация"
+
+msgid "sidebar.administration"
+msgstr "Администрация"
+
+msgid "sidebar.dashboard"
+msgstr "Панель управления"
+
+msgid "sidebar.attendance"
+msgstr "Посещаемость"
+
+msgid "sidebar.collegePrep"
+msgstr "Подготовка к вузу"
+
+msgid "sidebar.admissionsHub"
+msgstr "Центр поступления"
+
+msgid "sidebar.alumni"
+msgstr "Выпускники"
+
+msgid "sidebar.communication"
+msgstr "Общение"
+
+msgid "sidebar.services"
+msgstr "Услуги"
+
+msgid "sidebar.adminPanel"
+msgstr "Админ-панель"
+
+msgid "sidebar.onboarding"
+msgstr "Настройка школы"
+
+msgid "sidebar.schedule"
+msgstr "Расписание"
+
+msgid "sidebar.studentDistribution"
+msgstr "Распределение учеников"
+
+msgid "sidebar.mySchedule"
+msgstr "Моё расписание"
+
+msgid "sidebar.myCourses"
+msgstr "Мои курсы"
+
+msgid "sidebar.bellSetup"
+msgstr "Настройка звонков"
+
+msgid "sidebar.currentLesson"
+msgstr "Текущий урок"
+
+msgid "sidebar.counselorHub"
+msgstr "Кабинет профориентатора"
+
+msgid "sidebar.essayQueue"
+msgstr "Очередь эссе"
+
+msgid "sidebar.curatorSearch"
+msgstr "Поиск учеников"
+
+msgid "sidebar.userManagement"
+msgstr "Управление пользователями"
+
+msgid "sidebar.resourceSetup"
+msgstr "Управление ресурсами"
+
+msgid "roles.admin"
+msgstr "Админ"
+
+msgid "roles.teacher"
+msgstr "Учитель"
+
+msgid "roles.student"
+msgstr "Ученик"
+
+msgid "roles.counselor"
+msgstr "Профориентатор"
+
+msgid "roles.curator"
+msgstr "Куратор"
+
+msgid "onboarding.title"
+msgstr "Мастер настройки школы"
+
+msgid "onboarding.subtitle"
+msgstr "Настройте школу за 4 простых шага"
+
+msgid "onboarding.addSubjects"
+msgstr "Добавить предметы"
+
+msgid "onboarding.registerTeachers"
+msgstr "Зарегистрировать учителей"
+
+msgid "onboarding.createClasses"
+msgstr "Создать классы"
+
+msgid "onboarding.generateSchedule"
+msgstr "Сгенерировать расписание"
+
+msgid "onboarding.step0Desc"
+msgstr "Добавьте предметы, преподаваемые в вашей школе"
+
+msgid "onboarding.step1Desc"
+msgstr "Зарегистрируйте учителей и назначьте им предметы"
+
+msgid "onboarding.step2Desc"
+msgstr "Создайте классы и укажите количество учеников"
+
+msgid "onboarding.step3Desc"
+msgstr "Сгенерируйте оптимизированное недельное расписание"
+
+msgid "onboarding.subjectPlaceholder"
+msgstr "напр. Математика"
+
+msgid "onboarding.teacherNamePlaceholder"
+msgstr "Имя учителя"
+
+msgid "onboarding.selectSubject"
+msgstr "Выберите предмет"
+
+msgid "onboarding.classNamePlaceholder"
+msgstr "напр. 10А"
+
+msgid "onboarding.studentCountPlaceholder"
+msgstr "Учеников"
+
+msgid "onboarding.students"
+msgstr "учеников"
+
+msgid "onboarding.readyToGenerate"
+msgstr "Готово к генерации недельного расписания на основе ваших данных."
+
+msgid "onboarding.subjectsCount"
+msgstr "предметов"
+
+msgid "onboarding.teachersCount"
+msgstr "учителей"
+
+msgid "onboarding.classesCount"
+msgstr "классов"
+
+msgid "onboarding.generateBtn"
+msgstr "Сгенерировать расписание"
+
+msgid "onboarding.conflictsFound"
+msgstr "Обнаружено {{count}} конфликт(ов)!"
+
+msgid "onboarding.scheduleGenerated"
+msgstr "Расписание успешно сгенерировано!"
+
+msgid "onboarding.finish"
+msgstr "Завершить настройку"
+
+msgid "onboarding.mon"
+msgstr "Пн"
+
+msgid "onboarding.tue"
+msgstr "Вт"
+
+msgid "onboarding.wed"
+msgstr "Ср"
+
+msgid "onboarding.thu"
+msgstr "Чт"
+
+msgid "onboarding.fri"
+msgstr "Пт"
+
+msgid "schedule.title"
+msgstr "Управление расписанием"
+
+msgid "schedule.subtitle"
+msgstr "Просмотр и управление недельным расписанием"
+
+msgid "schedule.selectClass"
+msgstr "Выберите класс"
+
+msgid "schedule.regenerate"
+msgstr "Пересоздать"
+
+msgid "schedule.weeklyGrid"
+msgstr "Недельное расписание"
+
+msgid "schedule.noSchedule"
+msgstr "Расписание ещё не создано. Перейдите в настройку школы."
+
+msgid "schedule.period"
+msgstr "Урок"
+
+msgid "schedule.lunch"
+msgstr "Обед"
+
+msgid "schedule.conflict"
+msgstr "Конфликт"
+
+msgid "distribution.title"
+msgstr "Распределение учеников"
+
+msgid "distribution.subtitle"
+msgstr "Назначьте учеников в классы"
+
+msgid "distribution.classes"
+msgstr "Классы"
+
+msgid "distribution.selectClass"
+msgstr "Выберите класс"
+
+msgid "distribution.noClasses"
+msgstr "Классы ещё не созданы."
+
+msgid "distribution.studentNamePlaceholder"
+msgstr "Имя ученика"
+
+msgid "distribution.noStudents"
+msgstr "Ученики ещё не назначены."
+
+msgid "distribution.selectClassPrompt"
+msgstr "Выберите класс слева для управления учениками."
+
+msgid "studentSchedule.title"
+msgstr "Моё расписание"
+
+msgid "studentSchedule.classLabel"
+msgstr "Класс"
+
+msgid "studentSchedule.noClass"
+msgstr "Класс не назначен"
+
+msgid "studentSchedule.weeklyView"
+msgstr "Недельное расписание"
+
+msgid "studentSchedule.noSchedule"
+msgstr "Расписание пока недоступно."
+
+msgid "studentCourses.title"
+msgstr "Мои курсы"
+
+msgid "studentCourses.subtitle"
+msgstr "Ваши назначенные предметы и учителя"
+
+msgid "studentCourses.noCourses"
+msgstr "Курсы пока недоступны."
+
+msgid "studentCourses.noTeacher"
+msgstr "Учитель не назначен"
+
+msgid "landing.badge"
+msgstr "Нам доверяют более 500 школ по всему миру"
+
+msgid "landing.heroTitle1"
+msgstr "SmartSchool AI: Единая платформа для"
+
+msgid "landing.heroTitle2"
+msgstr "школьной жизни"
+
+msgid "landing.heroTitle3"
+msgstr "и"
+
+msgid "landing.heroTitle4"
+msgstr "поступления"
+
+msgid "landing.heroSubtitle"
+msgstr ""
+"Замените разрозненные WhatsApp-группы, таблицы и ручное расписание одной "
+"интеллектуальной экосистемой для современных школ."
+
+msgid "landing.seeHow"
+msgstr "Узнать подробнее"
+
+msgid "landing.freeTrial"
+msgstr "Бесплатный 30-дневный период"
+
+msgid "landing.noCard"
+msgstr "Без банковской карты"
+
+msgid "landing.setupTime"
+msgstr "Настройка за 10 минут"
+
+msgid "landing.problemTitle"
+msgstr "Проблемы, которые мы решаем"
+
+msgid "landing.problemSubtitle"
+msgstr ""
+"Школы используют разрозненные инструменты, которые тратят время и теряют "
+"данные. SmartSchool AI объединяет всё."
+
+msgid "landing.problem"
+msgstr "Проблема"
+
+msgid "landing.solution"
+msgstr "Решение"
+
+msgid "landing.featuresTitle"
+msgstr "Всё, что нужно вашей школе"
+
+msgid "landing.featuresSubtitle"
+msgstr ""
+"Комплексный набор инструментов, разработанный специально для школьного "
+"управления."
+
+msgid "landing.schedulerTitle"
+msgstr "Автоматическое расписание с обнаружением конфликтов"
+
+msgid "landing.schedulerSubtitle"
+msgstr "Наш ИИ создаёт оптимальные расписания и выявляет конфликты заранее."
+
+msgid "landing.schedulerLabel"
+msgstr "Автоматически"
+
+msgid "landing.roomConflict"
+msgstr "Конфликт кабинетов"
+
+msgid "landing.pricingTitle"
+msgstr "Простые и прозрачные тарифы"
+
+msgid "landing.pricingSubtitle"
+msgstr "Выберите план, подходящий для вашего учреждения."
+
+msgid "landing.mostPopular"
+msgstr "Самый популярный"
+
+msgid "landing.startTrial"
+msgstr "Начать пробный период"
+
+msgid "landing.contactSales"
+msgstr "Связаться с отделом продаж"
+
+msgid "landing.testimonialsTitle"
+msgstr "Нам доверяют педагоги"
+
+msgid "landing.ctaTitle"
+msgstr "Готовы преобразить вашу школу?"
+
+msgid "landing.ctaSubtitle"
+msgstr "Присоединяйтесь к 500+ школам, которые уже используют SmartSchool AI."
+
+msgid "landing.copyright"
+msgstr "© 2026 SmartSchool AI. Все права защищены."
+
+msgid "landing.mondaySchedule"
+msgstr "Понедельник — Класс 12-А"
+
+msgid "pricing.basic.name"
+msgstr "Базовый"
+
+msgid "pricing.basic.price"
+msgstr "$299"
+
+msgid "pricing.basic.period"
+msgstr "/мес"
+
+msgid "pricing.basic.desc"
+msgstr "Для небольших школ до 200 учеников"
+
+msgid "pricing.pro.name"
+msgstr "Про"
+
+msgid "pricing.pro.price"
+msgstr "$799"
+
+msgid "pricing.pro.period"
+msgstr "/мес"
+
+msgid "pricing.pro.desc"
+msgstr "Для растущих школ до 1000 учеников"
+
+msgid "pricing.institutional.name"
+msgstr "Институциональный"
+
+msgid "pricing.institutional.price"
+msgstr "По запросу"
+
+msgid "pricing.institutional.period"
+msgstr ""
+
+msgid "pricing.institutional.desc"
+msgstr "Для школьных округов и крупных учреждений"
+
+msgid "pricing.features.dashboardAnalytics"
+msgstr "Панель управления и аналитика"
+
+msgid "pricing.features.attendanceModule"
+msgstr "Модуль посещаемости"
+
+msgid "pricing.features.communicationHub"
+msgstr "Центр общения"
+
+msgid "pricing.features.adminAccounts5"
+msgstr "5 аккаунтов администратора"
+
+msgid "pricing.features.emailSupport"
+msgstr "Поддержка по email"
+
+msgid "pricing.features.everythingBasic"
+msgstr "Всё из Базового"
+
+msgid "pricing.features.collegePrepHub"
+msgstr "Центр подготовки к вузу"
+
+msgid "pricing.features.aiEssayFeedback"
+msgstr "ИИ-анализ эссе"
+
+msgid "pricing.features.autoScheduler"
+msgstr "Автоматическое расписание"
+
+msgid "pricing.features.prioritySupport"
+msgstr "Приоритетная поддержка"
+
+msgid "pricing.features.apiAccess"
+msgstr "Доступ к API"
+
+msgid "pricing.features.everythingPro"
+msgstr "Всё из Про"
+
+msgid "pricing.features.unlimitedStudents"
+msgstr "Безлимит учеников"
+
+msgid "pricing.features.alumniNetwork"
+msgstr "Сеть выпускников"
+
+msgid "pricing.features.customIntegrations"
+msgstr "Кастомные интеграции"
+
+msgid "pricing.features.dedicatedManager"
+msgstr "Персональный менеджер"
+
+msgid "pricing.features.slaGuarantee"
+msgstr "Гарантия SLA"
+
+msgid "pricing.features.onPremise"
+msgstr "Локальная установка"
+
+msgid "problems.fragmented"
+msgstr "Разрозненное общение"
+
+msgid "problems.fragmentedSolution"
+msgstr "Единая платформа для всех школьных сообщений"
+
+msgid "problems.manual"
+msgstr "Ручное расписание"
+
+msgid "problems.manualSolution"
+msgstr "ИИ-планировщик с автоматическим разрешением конфликтов"
+
+msgid "problems.disconnected"
+msgstr "Разрозненные данные"
+
+msgid "problems.disconnectedSolution"
+msgstr "Централизованная аналитика по всем модулям"
+
+msgid "problems.paper"
+msgstr "Бумажные процессы"
+
+msgid "problems.paperSolution"
+msgstr "Цифровые процессы от посещаемости до поступления"
+
+msgid "features.autoScheduler"
+msgstr "Автоматическое расписание"
+
+msgid "features.autoSchedulerDesc"
+msgstr "ИИ-генерация расписания с обнаружением конфликтов в реальном времени"
+
+msgid "features.perfAnalytics"
+msgstr "Аналитика успеваемости"
+
+msgid "features.perfAnalyticsDesc"
+msgstr "Отслеживайте прогресс учеников с интерактивными дашбордами"
+
+msgid "features.unifiedComm"
+msgstr "Единое общение"
+
+msgid "features.unifiedCommDesc"
+msgstr "Замените разрозненные WhatsApp-группы организованными каналами"
+
+msgid "features.faceIdAttendance"
+msgstr "Посещаемость по Face ID"
+
+msgid "features.faceIdAttendanceDesc"
+msgstr "Биометрическая проверка посещаемости с уведомлениями родителям"
+
+msgid "features.collegePrepHub"
+msgstr "Центр подготовки к вузу"
+
+msgid "features.collegePrepHubDesc"
+msgstr "ИИ-анализ эссе, управление портфолио и отслеживание рекомендаций"
+
+msgid "features.smartAlerts"
+msgstr "Умные уведомления"
+
+msgid "features.smartAlertsDesc"
+msgstr "Предупреждения о перегрузке учителей, дедлайнах и поступлении"
+
+msgid "dashboard.title"
+msgstr "Панель управления"
+
+msgid "dashboard.welcome"
+msgstr "С возвращением! Вот ваш обзор."
+
+msgid "dashboard.students"
+msgstr "Ученики"
+
+msgid "dashboard.avgGpa"
+msgstr "Средний GPA"
+
+msgid "dashboard.attendance"
+msgstr "Посещаемость"
+
+msgid "dashboard.courses"
+msgstr "Курсы"
+
+msgid "dashboard.performanceAnalytics"
+msgstr "Аналитика успеваемости"
+
+msgid "dashboard.gradeTrends"
+msgstr "Тренды оценок по времени"
+
+msgid "dashboard.deadlineCalendar"
+msgstr "Календарь дедлайнов"
+
+msgid "dashboard.upcomingDueDates"
+msgstr "Ближайшие сроки сдачи"
+
+msgid "dashboard.targetGradeCalc"
+msgstr "Калькулятор целевых оценок"
+
+msgid "dashboard.setGoals"
+msgstr "Установите цели и отслеживайте прогресс"
+
+msgid "dashboard.ofTarget"
+msgstr "от цели"
+
+msgid "dashboard.math"
+msgstr "Математика"
+
+msgid "dashboard.science"
+msgstr "Естествознание"
+
+msgid "dashboard.english"
+msgstr "Английский"
+
+msgid "dashboard.mathematics"
+msgstr "Математика"
+
+msgid "dashboard.assignment"
+msgstr "Задание"
+
+msgid "dashboard.project"
+msgstr "Проект"
+
+msgid "dashboard.essay"
+msgstr "Эссе"
+
+msgid "dashboard.exam"
+msgstr "Экзамен"
+
+msgid "dashboard.portfolio"
+msgstr "Портфолио"
+
+msgid "attendance.title"
+msgstr "Посещаемость"
+
+msgid "attendance.subtitle"
+msgstr "Журнал посещаемости с Face ID"
+
+msgid "attendance.present"
+msgstr "Присутствует"
+
+msgid "attendance.late"
+msgstr "Опоздал"
+
+msgid "attendance.absent"
+msgstr "Отсутствует"
+
+msgid "attendance.all"
+msgstr "Все"
+
+msgid "attendance.studentGrid"
+msgstr "Таблица посещаемости"
+
+msgid "collegePrep.title"
+msgstr "Центр подготовки к вузу"
+
+msgid "collegePrep.subtitle"
+msgstr "Написание эссе, ИИ-анализ и управление портфолио"
+
+msgid "collegePrep.essayWriting"
+msgstr "Написание эссе"
+
+msgid "collegePrep.commonApp"
+msgstr "Личное заявление Common App"
+
+msgid "collegePrep.startWriting"
+msgstr "Начните писать эссе..."
+
+msgid "collegePrep.words"
+msgstr "слов"
+
+msgid "collegePrep.saveDraft"
+msgstr "Сохранить черновик"
+
+msgid "collegePrep.submitReview"
+msgstr "Отправить на проверку"
+
+msgid "collegePrep.aiFeedback"
+msgstr "ИИ-анализ"
+
+msgid "collegePrep.realTimeAnalysis"
+msgstr "Анализ в реальном времени"
+
+msgid "collegePrep.strength"
+msgstr "сильная сторона"
+
+msgid "collegePrep.improvement"
+msgstr "улучшение"
+
+msgid "collegePrep.tip"
+msgstr "совет"
+
+msgid "collegePrep.portfolioStorage"
+msgstr "Хранилище портфолио"
+
+msgid "collegePrep.certsAwards"
+msgstr "Сертификаты и награды"
+
+msgid "collegePrep.uploadCert"
+msgstr "Загрузить сертификат"
+
+msgid "collegePrep.certificate"
+msgstr "Сертификат"
+
+msgid "collegePrep.award"
+msgstr "Награда"
+
+msgid "collegePrep.featuredEssay"
+msgstr "Избранное эссе"
+
+msgid "alumni.title"
+msgstr "Зал славы"
+
+msgid "alumni.subtitle"
+msgstr "Наши выдающиеся выпускники"
+
+msgid "alumni.readEssay"
+msgstr "Читать эссе"
+
+msgid "alumni.profile"
+msgstr "Профиль"
+
+msgid "alumni.featuredEssay"
+msgstr "Избранное эссе"
+
+msgid "communication.title"
+msgstr "Общение"
+
+msgid "communication.subtitle"
+msgstr "Чат с классами, учителями и проектными группами"
+
+msgid "communication.channels"
+msgstr "Каналы"
+
+msgid "communication.schoolChannels"
+msgstr "Каналы"
+
+msgid "communication.directMessages"
+msgstr "Личные сообщения"
+
+msgid "communication.typeMessage"
+msgstr "Введите сообщение..."
+
+msgid "communication.messageTeacher"
+msgstr "Написать учителю"
+
+msgid "communication.noMessages"
+msgstr "Сообщений пока нет. Начните беседу!"
+
+msgid "communication.edited"
+msgstr "изменено"
+
+msgid "communication.dropFiles"
+msgstr "Перетащите файлы сюда"
+
+msgid "admissions.title"
+msgstr "Центр поступления"
+
+msgid "admissions.subtitle"
+msgstr "Отслеживайте заявки, баллы и документы"
+
+msgid "admissions.exams"
+msgstr "Экзамены"
+
+msgid "admissions.collegeList"
+msgstr "Вузы"
+
+msgid "admissions.activities"
+msgstr "Активности"
+
+msgid "admissions.essays"
+msgstr "Эссе"
+
+msgid "admissions.documents"
+msgstr "Документы"
+
+msgid "admissions.examTracker"
+msgstr "SAT / IELTS / Внешние экзамены"
+
+msgid "admissions.examTrackerSub"
+msgstr "Целевые и текущие баллы"
+
+msgid "admissions.examName"
+msgstr "Экзамен"
+
+msgid "admissions.targetScore"
+msgstr "Целевой балл"
+
+msgid "admissions.currentBest"
+msgstr "Лучший результат"
+
+msgid "admissions.testDate"
+msgstr "Дата теста"
+
+msgid "admissions.status"
+msgstr "Статус"
+
+msgid "admissions.registered"
+msgstr "Зарегистрирован"
+
+msgid "admissions.completed"
+msgstr "Сдан"
+
+msgid "admissions.upcoming"
+msgstr "Предстоит"
+
+msgid "admissions.uploadScoreReport"
+msgstr "Загрузить отчёт (PDF/JPG)"
+
+msgid "admissions.add"
+msgstr "Добавить"
+
+msgid "admissions.collegeTracker"
+msgstr "Трекер заявок"
+
+msgid "admissions.collegeTrackerSub"
+msgstr "По категориям: Мечта, Реальный, Запасной"
+
+msgid "admissions.reach"
+msgstr "Мечта"
+
+msgid "admissions.match"
+msgstr "Реальный"
+
+msgid "admissions.safety"
+msgstr "Запасной"
+
+msgid "admissions.deadline"
+msgstr "Дедлайн"
+
+msgid "admissions.notStarted"
+msgstr "Не начато"
+
+msgid "admissions.inProgress"
+msgstr "В процессе"
+
+msgid "admissions.submitted"
+msgstr "Отправлено"
+
+msgid "admissions.universityName"
+msgstr "Название вуза"
+
+msgid "admissions.portalUrl"
+msgstr "Ссылка на портал"
+
+msgid "admissions.activityList"
+msgstr "Внеклассная деятельность"
+
+msgid "admissions.activityListSub"
+msgstr "До 10 основных активностей"
+
+msgid "admissions.role"
+msgstr "Роль"
+
+msgid "admissions.organization"
+msgstr "Организация"
+
+msgid "admissions.description"
+msgstr "Описание"
+
+msgid "admissions.hrsWeek"
+msgstr "часов/неделя"
+
+msgid "admissions.cert"
+msgstr "Серт."
+
+msgid "admissions.activitiesUsed"
+msgstr "активностей"
+
+msgid "admissions.personalStatement"
+msgstr "Мотивационное письмо"
+
+msgid "admissions.draftEditor"
+msgstr "Редактор с историей версий"
+
+msgid "admissions.startWriting"
+msgstr "Начните писать эссе..."
+
+msgid "admissions.words"
+msgstr "слов"
+
+msgid "admissions.saveVersion"
+msgstr "Сохранить версию"
+
+msgid "admissions.versionHistory"
+msgstr "История версий"
+
+msgid "admissions.counselorFeedback"
+msgstr "Отзыв куратора"
+
+msgid "admissions.leaveFeedback"
+msgstr "Оставьте отзыв ученику"
+
+msgid "admissions.readOnly"
+msgstr "Только чтение (от куратора)"
+
+msgid "admissions.writeFeedback"
+msgstr "Напишите ваш отзыв..."
+
+msgid "admissions.noFeedbackYet"
+msgstr "Отзывов пока нет"
+
+msgid "admissions.adminFeedbackNote"
+msgstr "Ваш отзыв виден ученику в режиме чтения."
+
+msgid "admissions.adminOnly"
+msgstr "Только для администратора"
+
+msgid "admissions.vault"
+msgstr "Хранилище документов"
+
+msgid "admissions.vaultSub"
+msgstr "Аттестаты, рекомендации и награды"
+
+msgid "admissions.uploadDocument"
+msgstr "Загрузить документ"
+
+msgid "services.title"
+msgstr "Онлайн-буфет"
+
+msgid "services.subtitle"
+msgstr "Предзаказ блюд на сегодня"
+
+msgid "services.items"
+msgstr "позиций"
+
+msgid "services.preOrder"
+msgstr "Предзаказ"
+
+msgid "services.addedToOrder"
+msgstr "добавлено в заказ!"
+
+msgid "admin.title"
+msgstr "Панель администратора"
+
+msgid "admin.subtitle"
+msgstr "Обзор школы для директоров и администраторов"
+
+msgid "admin.totalStudents"
+msgstr "Всего учеников"
+
+msgid "admin.avgAttendance"
+msgstr "Средняя посещаемость"
+
+msgid "admin.pendingReports"
+msgstr "Ожидающие отчёты"
+
+msgid "admin.teacherHoursAvg"
+msgstr "Средние часы учителей"
+
+msgid "admin.weeklyReport"
+msgstr "Еженедельный отчёт"
+
+msgid "admin.weeklyReportSub"
+msgstr "Посещаемость и сдача работ за неделю"
+
+msgid "admin.teacherWorkload"
+msgstr "Нагрузка учителей"
+
+msgid "admin.weeklyHours"
+msgstr "Еженедельные часы преподавания"
+
+msgid "admin.admissionAnalytics"
+msgstr "Аналитика поступлений"
+
+msgid "admin.admissionSub"
+msgstr "Воронка заявок по времени"
+
+msgid "admin.admissionBreakdown"
+msgstr "Распределение поступлений"
+
+msgid "admin.currentCycle"
+msgstr "Текущий цикл"
+
+msgid "admin.accepted"
+msgstr "Принято"
+
+msgid "admin.waitlisted"
+msgstr "В ожидании"
+
+msgid "admin.rejected"
+msgstr "Отказано"
+
+msgid "admin.overloaded"
+msgstr "перегрузка"
+
+msgid "admin.high"
+msgstr "высокая"
+
+msgid "admin.normal"
+msgstr "норма"
+
+msgid "admin.applications"
+msgstr "Заявки"
+
+msgid "admin.enrolled"
+msgstr "Зачислены"
+
+msgid "register.title"
+msgstr "Зарегистрировать школу"
+
+msgid "register.subtitle"
+msgstr "Начните за несколько шагов"
+
+msgid "register.schoolInfo"
+msgstr "Данные школы"
+
+msgid "register.adminAccount"
+msgstr "Аккаунт админа"
+
+msgid "register.configuration"
+msgstr "Настройка"
+
+msgid "register.complete"
+msgstr "Готово"
+
+msgid "register.schoolName"
+msgstr "Название школы"
+
+msgid "register.schoolNamePlaceholder"
+msgstr "напр. Академия Линкольна"
+
+msgid "register.district"
+msgstr "Район / Регион"
+
+msgid "register.districtPlaceholder"
+msgstr "напр. Алматинская область"
+
+msgid "register.country"
+msgstr "Страна"
+
+msgid "register.countryPlaceholder"
+msgstr "напр. Казахстан"
+
+msgid "register.studentCount"
+msgstr "Количество учеников"
+
+msgid "register.studentCountPlaceholder"
+msgstr "напр. 500"
+
+msgid "register.schoolInformation"
+msgstr "Информация о школе"
+
+msgid "register.administratorAccount"
+msgstr "Аккаунт администратора"
+
+msgid "register.fullName"
+msgstr "ФИО"
+
+msgid "register.fullNamePlaceholder"
+msgstr "напр. Иванов Иван"
+
+msgid "register.email"
+msgstr "Email"
+
+msgid "register.emailPlaceholder"
+msgstr "admin@school.edu"
+
+msgid "register.phone"
+msgstr "Телефон"
+
+msgid "register.phonePlaceholder"
+msgstr "+7 (xxx) xxx-xxxx"
+
+msgid "register.password"
+msgstr "Пароль"
+
+msgid "register.passwordPlaceholder"
+msgstr "Создайте надёжный пароль"
+
+msgid "register.chooseModules"
+msgstr "Выберите модули"
+
+msgid "register.modulesNote"
+msgstr "Выберите модули для активации. Вы можете изменить это позже."
+
+msgid "register.registrationComplete"
+msgstr "Регистрация завершена!"
+
+msgid "register.registrationCompleteDesc"
+msgstr ""
+"Ваша школа зарегистрирована. Теперь вы можете перейти в панель "
+"администратора."
+
+msgid "register.goToAdmin"
+msgstr "Перейти в панель администратора"
+
+msgid "register.back"
+msgstr "Назад"
+
+msgid "register.next"
+msgstr "Далее"
+
+msgid "register.completeRegistration"
+msgstr "Завершить регистрацию"
+
+msgid "register.modules.dashboard"
+msgstr "Панель управления и аналитика"
+
+msgid "register.modules.attendance"
+msgstr "Модуль посещаемости"
+
+msgid "register.modules.collegePrep"
+msgstr "Центр подготовки к вузу"
+
+msgid "register.modules.communication"
+msgstr "Общение"
+
+msgid "register.modules.services"
+msgstr "Услуги (Буфет)"
+
+msgid "register.modules.alumni"
+msgstr "Сеть выпускников"
+
+msgid "register.modules.scheduler"
+msgstr "Автоматическое расписание"
+
+msgid "testimonials.t1"
+msgstr ""
+"SmartSchool AI сократил нашу админ-нагрузку на 60%. Только планировщик "
+"сэкономил нам 15 часов в неделю."
+
+msgid "testimonials.t2"
+msgstr ""
+"Единое общение заменило 12 разных WhatsApp-групп. Родители довольны "
+"прозрачностью."
+
+msgid "testimonials.t3"
+msgstr ""
+"Процент поступления в вузы вырос на 23% после внедрения Центра подготовки."
+
+msgid "scheduler.subjects.mathematics"
+msgstr "Математика"
+
+msgid "scheduler.subjects.physics"
+msgstr "Физика"
+
+msgid "scheduler.subjects.english"
+msgstr "Английский"
+
+msgid "scheduler.subjects.biology"
+msgstr "Биология"
+
+msgid "scheduler.subjects.lunch"
+msgstr "Обеденный перерыв"
+
+msgid "scheduler.subjects.history"
+msgstr "История"
+
+msgid "gateway.userTitle"
+msgstr "Вход в портал"
+
+msgid "gateway.userDesc"
+msgstr ""
+"Для учеников, родителей и учителей — доступ к оценкам, расписанию и "
+"подготовке к вузу."
+
+msgid "gateway.userCta"
+msgstr "Перейти в портал"
+
+msgid "gateway.businessTitle"
+msgstr "SmartSchool для бизнеса"
+
+msgid "gateway.businessDesc"
+msgstr ""
+"Для администрации школ. Возможности платформы, автоматическое расписание, "
+"тарифы и интеграция."
+
+msgid "gateway.businessCta"
+msgstr "Узнать больше"
+
+msgid "gateway.tags.grades"
+msgstr "Оценки"
+
+msgid "gateway.tags.schedules"
+msgstr "Расписание"
+
+msgid "gateway.tags.collegePrep"
+msgstr "Подготовка к вузу"
+
+msgid "gateway.tags.buffet"
+msgstr "Буфет"
+
+msgid "gateway.tags.analytics"
+msgstr "Аналитика"
+
+msgid "gateway.tags.admin"
+msgstr "Администрирование"
+
+msgid "gateway.tags.integration"
+msgstr "Интеграция"
+
+msgid "gateway.tags.scheduler"
+msgstr "Расписание"
+
+msgid "tiles.todaySchedule"
+msgstr "Расписание на сегодня"
+
+msgid "tiles.gradeAnalytics"
+msgstr "Аналитика оценок"
+
+msgid "tiles.targetCalculator"
+msgstr "Целевой калькулятор"
+
+msgid "tiles.attendance"
+msgstr "Посещаемость"
+
+msgid "tiles.schedule"
+msgstr "Расписание"
+
+msgid "tiles.deadlines"
+msgstr "Дедлайны"
+
+msgid "tiles.projectHub"
+msgstr "Центр проектов"
+
+msgid "tiles.projectHubDesc"
+msgstr "Управляйте и отслеживайте ваши командные проекты."
+
+msgid "tiles.essayEditor"
+msgstr "Редактор эссе"
+
+msgid "tiles.aiFeedback"
+msgstr "ИИ-обратная связь"
+
+msgid "tiles.portfolio"
+msgstr "Портфолио"
+
+msgid "tiles.onlineBuffet"
+msgstr "Онлайн-буфет"
+
+msgid "tiles.announcements"
+msgstr "Объявления"
+
+msgid "tiles.payments"
+msgstr "Платежи"
+
+msgid "tiles.paymentsDesc"
+msgstr "Просмотр и управление историей платежей."
+
+msgid "tiles.schoolChats"
+msgstr "Школьные чаты"
+
+msgid "tiles.groupEducation"
+msgstr "Образование"
+
+msgid "tiles.groupPlanning"
+msgstr "Планирование"
+
+msgid "tiles.groupCollege"
+msgstr "Подготовка к вузу"
+
+msgid "tiles.groupServices"
+msgstr "Услуги"
+
+msgid "tiles.groupCommunication"
+msgstr "Общение"
+
+msgid "tiles.groupTeacher"
+msgstr "Преподавание"
+
+msgid "tiles.groupCounselor"
+msgstr "Профориентация"
+
+msgid "tiles.groupCurator"
+msgstr "Мониторинг"
+
+msgid "notifications.title"
+msgstr "Уведомления"
+
+msgid "notifications.newGrade"
+msgstr "Новая оценка"
+
+msgid "notifications.newMessage"
+msgstr "Новое сообщение"
+
+msgid "notifications.deadlineAlert"
+msgstr "Приближается дедлайн"
+
+msgid "bellSetup.title"
+msgstr "Настройка звонков"
+
+msgid "bellSetup.subtitle"
+msgstr "Настройте уроки, и система автоматически рассчитает перемены"
+
+msgid "bellSetup.configuration"
+msgstr "Конфигурация"
+
+msgid "bellSetup.totalPeriods"
+msgstr "Количество уроков в день"
+
+msgid "bellSetup.lessonDuration"
+msgstr "Длительность урока (мин)"
+
+msgid "bellSetup.startTime"
+msgstr "Начало занятий"
+
+msgid "bellSetup.endTime"
+msgstr "Конец занятий"
+
+msgid "bellSetup.calculate"
+msgstr "Рассчитать автоматически"
+
+msgid "bellSetup.calculated"
+msgstr "Расписание звонков рассчитано!"
+
+msgid "bellSetup.insufficientTime"
+msgstr "Недостаточно времени для всех уроков"
+
+msgid "bellSetup.generatedSchedule"
+msgstr "Сгенерированное расписание"
+
+msgid "bellSetup.period"
+msgstr "Урок"
+
+msgid "bellSetup.breakTime"
+msgstr "Перемена"
+
+msgid "bellSetup.minutes"
+msgstr "мин"
+
+msgid "bellSetup.save"
+msgstr "Сохранить расписание"
+
+msgid "teacher.title"
+msgstr "Панель учителя"
+
+msgid "teacher.subtitle"
+msgstr "Управление классами и посещаемостью"
+
+msgid "teacher.currentLesson"
+msgstr "Текущий урок"
+
+msgid "teacher.myScheduleToday"
+msgstr "Моё расписание на сегодня"
+
+msgid "teacher.now"
+msgstr "СЕЙЧАС"
+
+msgid "teacher.attendanceFor"
+msgstr "Посещаемость для"
+
+msgid "teacher.prevPeriod"
+msgstr "пред. урок"
+
+msgid "teacher.present"
+msgstr "Присутствует"
+
+msgid "teacher.absent"
+msgstr "Отсутствует"
+
+msgid "teacher.late"
+msgstr "Опоздал"
+
+msgid "teacher.saveAttendance"
+msgstr "Сохранить посещаемость"
+
+msgid "counselor.title"
+msgstr "Центр профориентатора"
+
+msgid "counselor.subtitle"
+msgstr "Управление аттестатами, эссе и активностями учеников"
+
+msgid "counselor.essayQueue"
+msgstr "Очередь эссе"
+
+msgid "counselor.essayQueueDesc"
+msgstr "Просматривайте эссе учеников в порядке очереди"
+
+msgid "counselor.transcripts"
+msgstr "Аттестаты"
+
+msgid "counselor.transcriptDesc"
+msgstr "Генерируйте аттестаты из данных оценок"
+
+msgid "counselor.activityMonitor"
+msgstr "Мониторинг активностей"
+
+msgid "counselor.activityDesc"
+msgstr "Просмотр и одобрение внеклассных активностей"
+
+msgid "counselor.pending"
+msgstr "Ожидает"
+
+msgid "counselor.reviewed"
+msgstr "Рассмотрено"
+
+msgid "counselor.credits"
+msgstr "кредиты"
+
+msgid "counselor.grades"
+msgstr "оценки"
+
+msgid "counselor.generatePDF"
+msgstr "Создать PDF"
+
+msgid "counselor.approved"
+msgstr "Одобрено"
+
+msgid "counselor.approve"
+msgstr "Одобрить"
+
+msgid "curator.title"
+msgstr "Панель куратора"
+
+msgid "curator.subtitle"
+msgstr "Поиск учеников и проверка расположения классов"
+
+msgid "curator.searchPlaceholder"
+msgstr "Поиск по имени ученика или классу..."
+
+msgid "curator.searchHint"
+msgstr "Найдите ученика или класс, чтобы узнать их текущее местоположение"
+
+msgid "curator.studentResults"
+msgstr "Результаты поиска"
+
+msgid "curator.classSchedule"
+msgstr "Расписание класса"
+
+msgid "curator.class"
+msgstr "Класс"
+
+msgid "curator.scheduleSearch"
+msgstr "Поиск по расписанию"
+
+msgid "curator.readOnlyNote"
+msgstr "Куратор имеет доступ только для чтения."
+
+msgid "crud.title"
+msgstr "Управление ресурсами"
+
+msgid "crud.subtitle"
+msgstr "Управление предметами, учителями и кабинетами"
+
+msgid "crud.subjects"
+msgstr "Предметы"
+
+msgid "crud.teachers"
+msgstr "Учителя"
+
+msgid "crud.rooms"
+msgstr "Кабинеты"
+
+msgid "crud.manageSubjects"
+msgstr "Управление предметами"
+
+msgid "crud.manageTeachers"
+msgstr "Управление учителями"
+
+msgid "crud.manageRooms"
+msgstr "Управление кабинетами"
+
+msgid "crud.subjectName"
+msgstr "Название предмета"
+
+msgid "crud.teacherName"
+msgstr "Имя учителя"
+
+msgid "crud.teacherEmail"
+msgstr "Email (необязательно)"
+
+msgid "crud.selectSubject"
+msgstr "Выберите предмет"
+
+msgid "crud.roomName"
+msgstr "Номер кабинета"
+
+msgid "crud.capacity"
+msgstr "Вместимость"
+
+msgid "crud.added"
+msgstr "Успешно добавлено"
+
+msgid "crud.deleted"
+msgstr "Успешно удалено"
+
+msgid "crud.error"
+msgstr "Произошла ошибка"
+
+msgid "crud.noItems"
+msgstr "Пока нет данных"
+
+msgid "vault.title"
+msgstr "Хранилище документов"
+
+msgid "vault.subtitle"
+msgstr "Аттестаты, рекомендации, сертификаты и награды"
+
+msgid "vault.dragDrop"
+msgstr "Перетащите файлы сюда (PDF, JPG)"
+
+msgid "vault.browse"
+msgstr "Выбрать файлы"
+
+msgid "vault.uploaded"
+msgstr "Файл(ы) загружены"
+
+msgid "vault.draft"
+msgstr "Черновик"
+
+msgid "vault.verified"
+msgstr "Проверено"
+
+msgid "vault.official"
+msgstr "Официальный"
+
+msgid "vault.noDocuments"
+msgstr "Документы ещё не загружены"
+
+msgid "vault.versionHistory"
+msgstr "История версий"
+
+msgid "vault.noVersions"
+msgstr "Версии не записаны"
